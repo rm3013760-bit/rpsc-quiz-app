@@ -65,6 +65,8 @@ function updateHomeStats() {
   document.getElementById('totalTopics').textContent = p1Topics.length + p2Topics.length;
   document.getElementById('paper1Stats').textContent = p1Filtered.length + ' प्रश्न';
   document.getElementById('paper2Stats').textContent = p2Filtered.length + ' प्रश्न';
+  const allBtn = document.getElementById('allQCount');
+  if (allBtn) allBtn.textContent = filtered.length;
 }
 
 function startModelPaper() {
@@ -90,6 +92,20 @@ function startModelPaper() {
   answered = false;
   quizHistory = [];
 
+  showScreen('quizScreen');
+  document.getElementById('totalQ').textContent = currentQuestions.length;
+  renderQuestion();
+}
+
+function startAllQuestions() {
+  const filtered = getFilteredData();
+  if (filtered.length === 0) return;
+  currentQuestions = [...filtered].sort(() => Math.random() - 0.5);
+  userAnswers = new Array(currentQuestions.length).fill(null);
+  currentIndex = 0;
+  answered = false;
+  quizHistory = [];
+  isModelPaper = false;
   showScreen('quizScreen');
   document.getElementById('totalQ').textContent = currentQuestions.length;
   renderQuestion();
