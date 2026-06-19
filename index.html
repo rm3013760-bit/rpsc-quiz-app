@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RPSC 2nd Grade Quiz App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app-container">
+    <header class="app-header">
+      <h1>RPSC 2nd Grade</h1>
+      <p class="subtitle">पूर्व वर्षों के प्रश्नों पर आधारित क्विज़</p>
+    </header>
+
+    <main class="main-content">
+      <div id="homeScreen" class="screen active">
+        <div class="home-card">
+          <div class="home-icon">📚</div>
+          <h2>आपका स्वागत है</h2>
+          <p>RPSC द्वितीय श्रेणी शिक्षक परीक्षा की तैयारी के लिए पूर्व वर्षों के प्रश्नों पर आधारित यह क्विज़ ऐप आपकी तैयारी को और मजबूत बनाएगा।</p>
+          <div class="stats-bar">
+            <div class="stat-item">
+              <span class="stat-value" id="totalQuestions">0</span>
+              <span class="stat-label">कुल प्रश्न</span>
+            </div>
+            <div class="stat-item">
+              <span class="stat-value" id="totalSubjects">0</span>
+              <span class="stat-label">विषय</span>
+            </div>
+          </div>
+          <div class="home-actions">
+            <button class="btn btn-primary" onclick="startQuiz()">क्विज़ शुरू करें</button>
+            <button class="btn btn-outline" onclick="showSubjects()">विषयानुसार अभ्यास</button>
+          </div>
+        </div>
+      </div>
+
+      <div id="subjectScreen" class="screen">
+        <button class="btn-back" onclick="showHome()">← वापस</button>
+        <h2>विषय चुनें</h2>
+        <div id="subjectList" class="subject-grid"></div>
+      </div>
+
+      <div id="quizScreen" class="screen">
+        <div class="quiz-header">
+          <button class="btn-back" onclick="confirmEnd()">← बाहर</button>
+          <div class="quiz-progress-text">
+            <span id="currentQ">1</span>/<span id="totalQ">0</span>
+          </div>
+          <div class="quiz-subject-badge" id="quizSubject"></div>
+        </div>
+        <div class="progress-bar">
+          <div class="progress-fill" id="progressFill"></div>
+        </div>
+        <div class="quiz-body">
+          <div class="question-number">प्रश्न <span id="qNumber">1</span></div>
+          <p class="question-text" id="questionText"></p>
+          <div class="options-container" id="optionsContainer"></div>
+          <div class="explanation-box" id="explanationBox" style="display:none;">
+            <div class="explanation-header">
+              <span class="result-icon" id="resultIcon"></span>
+              <span class="result-text" id="resultText"></span>
+            </div>
+            <div class="explanation-content" id="explanationContent"></div>
+            <button class="btn btn-primary" id="nextBtn" onclick="nextQuestion()">अगला प्रश्न</button>
+          </div>
+        </div>
+      </div>
+
+      <div id="resultScreen" class="screen">
+        <div class="result-card">
+          <div class="result-icon-big">🎯</div>
+          <h2>आपका परिणाम</h2>
+          <div class="score-circle">
+            <span class="score-value" id="finalScore">0</span>
+            <span class="score-divider">/</span>
+            <span class="score-total" id="finalTotal">0</span>
+          </div>
+          <div class="score-details">
+            <div class="score-detail correct">सही: <span id="correctCount">0</span></div>
+            <div class="score-detail wrong">गलत: <span id="wrongCount">0</span></div>
+            <div class="score-detail unattempted">छोड़े: <span id="unattemptedCount">0</span></div>
+          </div>
+          <div class="percentage" id="percentageDisplay">0%</div>
+          <div class="result-actions">
+            <button class="btn btn-primary" onclick="showReview()">समीक्षा करें</button>
+            <button class="btn btn-outline" onclick="showHome()">होम पर वापस</button>
+          </div>
+        </div>
+      </div>
+
+      <div id="reviewScreen" class="screen">
+        <button class="btn-back" onclick="showResult()">← वापस</button>
+        <h2>उत्तर समीक्षा</h2>
+        <div id="reviewList" class="review-list"></div>
+        <div class="review-actions">
+          <button class="btn btn-primary" onclick="showHome()">होम पर जाएँ</button>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script src="questions.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
