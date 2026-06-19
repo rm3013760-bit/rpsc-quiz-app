@@ -17,28 +17,44 @@
       <div id="homeScreen" class="screen active">
         <div class="home-card">
           <div class="home-icon">📚</div>
-          <h2>आपका स्वागत है</h2>
-          <p>RPSC द्वितीय श्रेणी शिक्षक परीक्षा की तैयारी के लिए पूर्व वर्षों के प्रश्नों पर आधारित यह क्विज़ ऐप आपकी तैयारी को और मजबूत बनाएगा।</p>
+          <h2>परीक्षा पद्धति चुनें</h2>
+          <p>RPSC द्वितीय श्रेणी शिक्षक परीक्षा की तैयारी के लिए पेपर चुनें</p>
+          <div class="paper-grid">
+            <div class="paper-card" onclick="showPaperTopics()">
+              <div class="paper-icon">📄</div>
+              <div class="paper-name">Paper 1</div>
+              <div class="paper-desc">सामान्य ज्ञान</div>
+              <div class="paper-stats" id="paper1Stats">100 प्रश्न | 200 अंक</div>
+            </div>
+            <div class="paper-card" onclick="showPaperSubjects()">
+              <div class="paper-icon">📄</div>
+              <div class="paper-name">Paper 2</div>
+              <div class="paper-desc">विषय विशेष</div>
+              <div class="paper-stats" id="paper2Stats">6 विषय</div>
+            </div>
+          </div>
           <div class="stats-bar">
             <div class="stat-item">
               <span class="stat-value" id="totalQuestions">0</span>
               <span class="stat-label">कुल प्रश्न</span>
             </div>
             <div class="stat-item">
-              <span class="stat-value" id="totalSubjects">0</span>
-              <span class="stat-label">विषय</span>
+              <span class="stat-value" id="totalTopics">0</span>
+              <span class="stat-label">कुल विषय/टॉपिक</span>
             </div>
-          </div>
-          <div class="home-actions">
-            <button class="btn btn-primary" onclick="startQuiz()">क्विज़ शुरू करें</button>
-            <button class="btn btn-outline" onclick="showSubjects()">विषयानुसार अभ्यास</button>
           </div>
         </div>
       </div>
 
+      <div id="topicScreen" class="screen">
+        <button class="btn-back" onclick="showHome()">← वापस</button>
+        <h2 id="topicScreenTitle">Paper 1 - सामान्य ज्ञान</h2>
+        <div id="topicList" class="topic-grid"></div>
+      </div>
+
       <div id="subjectScreen" class="screen">
         <button class="btn-back" onclick="showHome()">← वापस</button>
-        <h2>विषय चुनें</h2>
+        <h2>Paper 2 - विषय विशेष</h2>
         <div id="subjectList" class="subject-grid"></div>
       </div>
 
@@ -48,7 +64,10 @@
           <div class="quiz-progress-text">
             <span id="currentQ">1</span>/<span id="totalQ">0</span>
           </div>
-          <div class="quiz-subject-badge" id="quizSubject"></div>
+          <div class="quiz-badge-container">
+            <span class="quiz-paper-badge" id="quizPaperBadge">Paper 1</span>
+            <span class="quiz-topic-badge" id="quizTopicBadge"></span>
+          </div>
         </div>
         <div class="progress-bar">
           <div class="progress-fill" id="progressFill"></div>
@@ -101,6 +120,7 @@
     </main>
   </div>
 
+  <script src="syllabus.js"></script>
   <script src="questions.js"></script>
   <script src="app.js"></script>
 </body>

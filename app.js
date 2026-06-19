@@ -4,21 +4,6 @@ let currentIndex = 0;
 let answered = false;
 let quizHistory = [];
 
-const subjects = [
-  { name: "राजस्थान का इतिहास एवं संस्कृति", icon: "🏛️" },
-  { name: "राजस्थान का भूगोल", icon: "🗺️" },
-  { name: "राजस्थान की राजव्यवस्था", icon: "⚖️" },
-  { name: "सामान्य विज्ञान", icon: "🔬" },
-  { name: "गणित", icon: "📐" },
-  { name: "तर्कशक्ति", icon: "🧠" },
-  { name: "समसामयिक घटनाएं", icon: "📰" }
-];
-
-function getSubjectIcon(subjectName) {
-  const subj = subjects.find(s => s.name === subjectName);
-  return subj ? subj.icon : "📚";
-}
-
 function showScreen(id) {
   document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
   document.getElementById(id).classList.add('active');
@@ -31,15 +16,89 @@ function showHome() {
 
 function updateHomeStats() {
   document.getElementById('totalQuestions').textContent = questionsData.length;
-  document.getElementById('totalSubjects').textContent = subjects.length;
+  document.getElementById('totalTopics').textContent = syllabus.paper1.topics.length + syllabus.paper2.subjects.length;
+  document.getElementById('paper1Stats').textContent = questionsData.filter(q => q.paper === 1).length + ' प्रश्न | ' + syllabus.paper1.totalMarks + ' अंक';
+  document.getElementById('paper2Stats').textContent = syllabus.paper2.subjects.length + ' विषय | ' + syllabus.paper2.totalMarks + ' अंक';
 }
 
-function showSubjects() {
+function showPaperTopics() {
+  showScreen('topicScreen');
+  document.getElementById('topicScreenTitle').textContent = syllabus.paper1.name;
+  const list = document.getElementById('topicList');
+  list.innerHTML = '';
+
+  const allQuestions = questionsData.filter(q => q.paper === 1);
+  if (allQuestions.length > 0) {
+    const allCard = document.createElement('div');
+    allCard.className = 'topic-card';
+    allCard.innerHTML = `
+      <div class="topic-card-header">
+        <span class="topic-icon">📚</span>
+        <span class="topic-name">सभी प्रश्न (All Questions)</span>
+        <span class="topic-count">${allQuestions.length} प्रश्न</span>
+      </div>
+    `;
+    allCard.querySelector('.topic-card-header').onclick = () => startQuiz({ paper: 1, topicId: null, subtopicId: null });
+    list.appendChild(allCard);
+  }
+
+  syllabus.paper1.topics.forEach(topic => {
+    const topicQuestions = questionsData.filter(q => q.paper === 1 && q.topic === topic.id);
+    if (topicQuestions.length === 0) return;
+
+    const card = document.createElement('div');
+    card.className = 'topic-card';
+
+    let subtopicsHtml = '';
+    topic.subtopics.forEach(sub => {
+      const subCount = questionsData.filter(q => q.paper === 1 && q.topic === topic.id && q.subtopic === sub.id).length;
+      if (subCount === 0) return;
+      subtopicsHtml += `<button class="subtopic-chip" data-topic="${topic.id}" data-subtopic="${sub.id}">${sub.name} (${subCount})</button>`;
+    });
+
+    card.innerHTML = `
+      <div class="topic-card-header">
+        <span class="topic-icon">${topic.icon}</span>
+        <span class="topic-name">${topic.shortName}</span>
+        <span class="topic-count">${topicQuestions.length} प्रश्न</span>
+      </div>
+      ${subtopicsHtml ? `<div class="subtopic-list">${subtopicsHtml}</div>` : ''}
+    `;
+
+    card.querySelector('.topic-card-header').onclick = () => startQuiz({ paper: 1, topicId: topic.id, subtopicId: null });
+
+    card.querySelectorAll('.subtopic-chip').forEach(chip => {
+      chip.onclick = (e) => {
+        e.stopPropagation();
+        startQuiz({ paper: 1, topicId: chip.dataset.topic, subtopicId: chip.dataset.subtopic });
+      };
+    });
+
+    list.appendChild(card);
+  });
+}
+
+function showPaperSubjects() {
   showScreen('subjectScreen');
   const list = document.getElementById('subjectList');
   list.innerHTML = '';
-  subjects.forEach(subj => {
-    const count = questionsData.filter(q => q.subject === subj.name).length;
+
+  const p2Questions = questionsData.filter(q => q.paper === 2);
+
+  if (p2Questions.length === 0) {
+    list.innerHTML = `
+      <div class="empty-state">
+        <div class="empty-icon">🔜</div>
+        <h3>जल्द आ रहा है</h3>
+        <p>Paper 2 के प्रश्न जल्द ही जोड़े जाएंगे।</p>
+        <button class="btn btn-outline" onclick="showHome()">वापस जाएँ</button>
+      </div>
+    `;
+    return;
+  }
+
+  syllabus.paper2.subjects.forEach(subj => {
+    const count = questionsData.filter(q => q.paper === 2 && q.topic === subj.id).length;
     const card = document.createElement('div');
     card.className = 'subject-card';
     card.innerHTML = `
@@ -47,28 +106,52 @@ function showSubjects() {
       <div class="subj-name">${subj.name}</div>
       <div class="subj-count">${count} प्रश्न</div>
     `;
-    card.onclick = () => startQuiz(subj.name);
+    card.onclick = () => startQuiz({ paper: 2, topicId: subj.id, subtopicId: null });
     list.appendChild(card);
   });
 }
 
-function startQuiz(subjectFilter) {
-  if (subjectFilter) {
-    currentQuestions = questionsData.filter(q => q.subject === subjectFilter);
+function startQuiz(filter) {
+  if (filter.paper === 1) {
+    if (filter.topicId && filter.subtopicId) {
+      currentQuestions = questionsData.filter(q => q.paper === 1 && q.topic === filter.topicId && q.subtopic === filter.subtopicId);
+    } else if (filter.topicId) {
+      currentQuestions = questionsData.filter(q => q.paper === 1 && q.topic === filter.topicId);
+    } else {
+      currentQuestions = questionsData.filter(q => q.paper === 1);
+    }
+  } else if (filter.paper === 2) {
+    if (filter.topicId) {
+      currentQuestions = questionsData.filter(q => q.paper === 2 && q.topic === filter.topicId);
+    } else {
+      currentQuestions = questionsData.filter(q => q.paper === 2);
+    }
   } else {
     currentQuestions = [...questionsData];
-    currentQuestions.sort(() => Math.random() - 0.5);
   }
 
   if (currentQuestions.length === 0) return;
 
+  currentQuestions.sort(() => Math.random() - 0.5);
   userAnswers = new Array(currentQuestions.length).fill(null);
   currentIndex = 0;
   answered = false;
+  quizHistory = [];
 
   showScreen('quizScreen');
   document.getElementById('totalQ').textContent = currentQuestions.length;
   renderQuestion();
+}
+
+function getPaperLabel(paper) {
+  return paper === 1 ? 'Paper 1' : 'Paper 2';
+}
+
+function getTopicLabel(topicId) {
+  const topic = syllabus.paper1.topics.find(t => t.id === topicId);
+  if (topic) return topic.shortName;
+  const subject = syllabus.paper2.subjects.find(s => s.id === topicId);
+  return subject ? subject.name : '';
 }
 
 function renderQuestion() {
@@ -78,7 +161,8 @@ function renderQuestion() {
   document.getElementById('currentQ').textContent = currentIndex + 1;
   document.getElementById('qNumber').textContent = currentIndex + 1;
   document.getElementById('questionText').textContent = q.question;
-  document.getElementById('quizSubject').textContent = getSubjectIcon(q.subject) + ' ' + q.subject;
+  document.getElementById('quizPaperBadge').textContent = getPaperLabel(q.paper);
+  document.getElementById('quizTopicBadge').textContent = getTopicLabel(q.topic);
 
   const progress = ((currentIndex) / currentQuestions.length) * 100;
   document.getElementById('progressFill').style.width = progress + '%';
