@@ -558,6 +558,15 @@ body {
   box-shadow: 0 8px 24px rgba(0,0,0,0.15);
 }
 
+.paper-card-alt {
+  background: linear-gradient(135deg, #e94560 0%, #c0392b 100%) !important;
+}
+
+.paper-card-alt:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(233,69,96,0.3);
+}
+
 .paper-icon {
   font-size: 36px;
   margin-bottom: 8px;

@@ -4,6 +4,7 @@ let currentIndex = 0;
 let answered = false;
 let quizHistory = [];
 let selectedYear = null;
+let isModelPaper = false;
 
 function showScreen(id) {
   document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
@@ -43,6 +44,7 @@ function selectYear(year) {
 }
 
 function showHome() {
+  isModelPaper = false;
   showScreen('homeScreen');
   initYearFilter();
   updateHomeStats();
@@ -63,6 +65,34 @@ function updateHomeStats() {
   document.getElementById('totalTopics').textContent = p1Topics.length + p2Topics.length;
   document.getElementById('paper1Stats').textContent = p1Filtered.length + ' प्रश्न';
   document.getElementById('paper2Stats').textContent = p2Filtered.length + ' प्रश्न';
+}
+
+function startModelPaper() {
+  isModelPaper = true;
+  selectedYear = null;
+  const topicTargets = [
+    { topic: 'rajasthan-gk', count: 40 },
+    { topic: 'rajasthan-current', count: 10 },
+    { topic: 'world-india-gk', count: 30 },
+    { topic: 'edu-psychology', count: 20 }
+  ];
+
+  let selected = [];
+  topicTargets.forEach(({ topic, count }) => {
+    const pool = questionsData.filter(q => q.paper === 1 && q.topic === topic);
+    const shuffled = [...pool].sort(() => Math.random() - 0.5);
+    selected.push(...shuffled.slice(0, count));
+  });
+
+  currentQuestions = selected.sort(() => Math.random() - 0.5);
+  userAnswers = new Array(currentQuestions.length).fill(null);
+  currentIndex = 0;
+  answered = false;
+  quizHistory = [];
+
+  showScreen('quizScreen');
+  document.getElementById('totalQ').textContent = currentQuestions.length;
+  renderQuestion();
 }
 
 function showPaperTopics() {
@@ -175,6 +205,7 @@ function showPaperSubjects() {
 }
 
 function startQuiz(filter) {
+  isModelPaper = false;
   const yearFiltered = getFilteredData();
 
   if (filter.paper === 1) {
@@ -232,7 +263,11 @@ function renderQuestion() {
 
   const yearBadge = document.getElementById('quizYearBadge');
   if (yearBadge) {
-    yearBadge.textContent = q.year + (q.shift ? ' (' + q.shift + ')' : '');
+    if (isModelPaper) {
+      yearBadge.textContent = '🎯 Model Paper';
+    } else {
+      yearBadge.textContent = q.year + (q.shift ? ' (' + q.shift + ')' : '');
+    }
   }
 
   const progress = ((currentIndex) / currentQuestions.length) * 100;
