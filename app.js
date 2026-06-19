@@ -3,31 +3,95 @@ let userAnswers = [];
 let currentIndex = 0;
 let answered = false;
 let quizHistory = [];
+let selectedYear = null;
 
 function showScreen(id) {
   document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
   document.getElementById(id).classList.add('active');
 }
 
-function showHome() {
-  showScreen('homeScreen');
+function getYears() {
+  return [...new Set(questionsData.map(q => q.year))].sort();
+}
+
+function initYearFilter() {
+  const years = getYears();
+  const homeChips = document.getElementById('yearChips');
+  homeChips.innerHTML = '';
+
+  const allChip = document.createElement('button');
+  allChip.className = 'year-chip' + (selectedYear === null ? ' active' : '');
+  allChip.textContent = 'सभी';
+  allChip.onclick = () => { selectYear(null); };
+  homeChips.appendChild(allChip);
+
+  years.forEach(year => {
+    const chip = document.createElement('button');
+    chip.className = 'year-chip' + (selectedYear === year ? ' active' : '');
+    chip.textContent = year;
+    chip.onclick = () => { selectYear(year); };
+    homeChips.appendChild(chip);
+  });
+}
+
+function selectYear(year) {
+  selectedYear = year;
+  document.querySelectorAll('#yearChips .year-chip').forEach(chip => {
+    chip.classList.toggle('active', chip.textContent === (year || 'सभी'));
+  });
   updateHomeStats();
 }
 
+function showHome() {
+  showScreen('homeScreen');
+  initYearFilter();
+  updateHomeStats();
+}
+
+function getFilteredData() {
+  return selectedYear ? questionsData.filter(q => q.year === selectedYear) : questionsData;
+}
+
 function updateHomeStats() {
-  document.getElementById('totalQuestions').textContent = questionsData.length;
-  document.getElementById('totalTopics').textContent = syllabus.paper1.topics.length + syllabus.paper2.subjects.length;
-  document.getElementById('paper1Stats').textContent = questionsData.filter(q => q.paper === 1).length + ' प्रश्न | ' + syllabus.paper1.totalMarks + ' अंक';
-  document.getElementById('paper2Stats').textContent = syllabus.paper2.subjects.length + ' विषय | ' + syllabus.paper2.totalMarks + ' अंक';
+  const filtered = getFilteredData();
+  const p1Filtered = filtered.filter(q => q.paper === 1);
+  const p2Filtered = filtered.filter(q => q.paper === 2);
+
+  document.getElementById('totalQuestions').textContent = filtered.length;
+  const p1Topics = [...new Set(filtered.filter(q => q.paper === 1).map(q => q.topic))];
+  const p2Topics = [...new Set(filtered.filter(q => q.paper === 2).map(q => q.topic))];
+  document.getElementById('totalTopics').textContent = p1Topics.length + p2Topics.length;
+  document.getElementById('paper1Stats').textContent = p1Filtered.length + ' प्रश्न';
+  document.getElementById('paper2Stats').textContent = p2Filtered.length + ' प्रश्न';
 }
 
 function showPaperTopics() {
   showScreen('topicScreen');
-  document.getElementById('topicScreenTitle').textContent = syllabus.paper1.name;
+  const title = 'Paper 1 - सामान्य ज्ञान' + (selectedYear ? ' (' + selectedYear + ')' : '');
+  document.getElementById('topicScreenTitle').textContent = title;
+
+  const topicChips = document.getElementById('topicYearChips');
+  const years = getYears();
+  topicChips.innerHTML = '';
+
+  const allChip = document.createElement('button');
+  allChip.className = 'year-chip' + (selectedYear === null ? ' active' : '');
+  allChip.textContent = 'सभी';
+  allChip.onclick = () => { selectYear(null); showPaperTopics(); };
+  topicChips.appendChild(allChip);
+
+  years.forEach(year => {
+    const chip = document.createElement('button');
+    chip.className = 'year-chip' + (selectedYear === year ? ' active' : '');
+    chip.textContent = year;
+    chip.onclick = () => { selectYear(year); showPaperTopics(); };
+    topicChips.appendChild(chip);
+  });
+
   const list = document.getElementById('topicList');
   list.innerHTML = '';
 
-  const allQuestions = questionsData.filter(q => q.paper === 1);
+  const allQuestions = getFilteredData().filter(q => q.paper === 1);
   if (allQuestions.length > 0) {
     const allCard = document.createElement('div');
     allCard.className = 'topic-card';
@@ -43,7 +107,7 @@ function showPaperTopics() {
   }
 
   syllabus.paper1.topics.forEach(topic => {
-    const topicQuestions = questionsData.filter(q => q.paper === 1 && q.topic === topic.id);
+    const topicQuestions = getFilteredData().filter(q => q.paper === 1 && q.topic === topic.id);
     if (topicQuestions.length === 0) return;
 
     const card = document.createElement('div');
@@ -51,7 +115,7 @@ function showPaperTopics() {
 
     let subtopicsHtml = '';
     topic.subtopics.forEach(sub => {
-      const subCount = questionsData.filter(q => q.paper === 1 && q.topic === topic.id && q.subtopic === sub.id).length;
+      const subCount = getFilteredData().filter(q => q.paper === 1 && q.topic === topic.id && q.subtopic === sub.id).length;
       if (subCount === 0) return;
       subtopicsHtml += `<button class="subtopic-chip" data-topic="${topic.id}" data-subtopic="${sub.id}">${sub.name} (${subCount})</button>`;
     });
@@ -66,7 +130,6 @@ function showPaperTopics() {
     `;
 
     card.querySelector('.topic-card-header').onclick = () => startQuiz({ paper: 1, topicId: topic.id, subtopicId: null });
-
     card.querySelectorAll('.subtopic-chip').forEach(chip => {
       chip.onclick = (e) => {
         e.stopPropagation();
@@ -83,7 +146,7 @@ function showPaperSubjects() {
   const list = document.getElementById('subjectList');
   list.innerHTML = '';
 
-  const p2Questions = questionsData.filter(q => q.paper === 2);
+  const p2Questions = getFilteredData().filter(q => q.paper === 2);
 
   if (p2Questions.length === 0) {
     list.innerHTML = `
@@ -98,7 +161,7 @@ function showPaperSubjects() {
   }
 
   syllabus.paper2.subjects.forEach(subj => {
-    const count = questionsData.filter(q => q.paper === 2 && q.topic === subj.id).length;
+    const count = getFilteredData().filter(q => q.paper === 2 && q.topic === subj.id).length;
     const card = document.createElement('div');
     card.className = 'subject-card';
     card.innerHTML = `
@@ -112,22 +175,25 @@ function showPaperSubjects() {
 }
 
 function startQuiz(filter) {
+  const yearFiltered = getFilteredData();
+
   if (filter.paper === 1) {
     if (filter.topicId && filter.subtopicId) {
-      currentQuestions = questionsData.filter(q => q.paper === 1 && q.topic === filter.topicId && q.subtopic === filter.subtopicId);
+      currentQuestions = yearFiltered.filter(q => q.paper === 1 && q.topic === filter.topicId && q.subtopic === filter.subtopicId);
     } else if (filter.topicId) {
-      currentQuestions = questionsData.filter(q => q.paper === 1 && q.topic === filter.topicId);
+      currentQuestions = yearFiltered.filter(q => q.paper === 1 && q.topic === filter.topicId);
     } else {
-      currentQuestions = questionsData.filter(q => q.paper === 1);
+      currentQuestions = yearFiltered.filter(q => q.paper === 1);
     }
   } else if (filter.paper === 2) {
     if (filter.topicId) {
-      currentQuestions = questionsData.filter(q => q.paper === 2 && q.topic === filter.topicId);
+      currentQuestions = yearFiltered.filter(q => q.paper === 2 && q.topic === filter.topicId);
     } else {
-      currentQuestions = questionsData.filter(q => q.paper === 2);
+      currentQuestions = yearFiltered.filter(q => q.paper === 2);
     }
   } else {
-    currentQuestions = [...questionsData];
+    currentQuestions = questionsData;
+    if (selectedYear) currentQuestions = currentQuestions.filter(q => q.year === selectedYear);
   }
 
   if (currentQuestions.length === 0) return;
@@ -163,6 +229,11 @@ function renderQuestion() {
   document.getElementById('questionText').textContent = q.question;
   document.getElementById('quizPaperBadge').textContent = getPaperLabel(q.paper);
   document.getElementById('quizTopicBadge').textContent = getTopicLabel(q.topic);
+
+  const yearBadge = document.getElementById('quizYearBadge');
+  if (yearBadge) {
+    yearBadge.textContent = q.year + (q.shift ? ' (' + q.shift + ')' : '');
+  }
 
   const progress = ((currentIndex) / currentQuestions.length) * 100;
   document.getElementById('progressFill').style.width = progress + '%';
