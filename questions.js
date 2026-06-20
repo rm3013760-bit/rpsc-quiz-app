@@ -1704,5099 +1704,1699 @@ const questionsData = [
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान में सर्वाधिक खनिज उत्पादन वाला जिला?",
+    "topic": "world-india-gk",
+    "subtopic": "indian-economy",
+    "question": "राष्ट्रीय रसद नीति, 2022 के लक्ष्यों के सन्दर्भ में निम्नलिखित कथनों पर विचार कीजिए-\nकथन A: 2030 तक लॉजिस्टिक्स लागत घटाकर वैश्विक बेंचमार्क के करीब लाया जाएगा।\nकथन B: 2090 तक LPI के सर्वोच्च 25 देशों में भारत शामिल होगा।\nसही विकल्प चुनिए-",
     "options": [
-      "जयपुर",
-      "झुंझुनू",
-      "भीलवाड़ा",
-      "अजमेर"
+      "A और B दोनों सही",
+      "न तो A न ही B",
+      "केवल A",
+      "केवल B"
     ],
-    "answer": 1,
-    "explanation": "झुंझुनू सर्वाधिक खनिज उत्पादन वाला जिला।"
+    "answer": 2,
+    "explanation": "राष्ट्रीय रसद नीति 2022 का लक्ष्य 2030 तक लॉजिस्टिक्स लागत को वैश्विक बेंचमार्क के करीब लाना और LPI में शीर्ष 25 देशों में शामिल होना है। अतः केवल कथन A सही है।"
   },
   {
     "id": 102,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "खारे पानी की सबसे बड़ी झील?",
+    "topic": "world-india-gk",
+    "subtopic": "indian-economy",
+    "question": "सूक्ष्म, लघु और मध्यम उपक्रमों के रजिस्ट्रेशन के लिये निम्न में से किस पोर्टल का उपयोग किया जाता है?",
     "options": [
-      "सांभर",
-      "डीडवाना",
-      "लूनकरनसर",
-      "पंचपदरा"
+      "चैम्पियन्स पोर्टल",
+      "रेम्प पोर्टल",
+      "समाधान पोर्टल",
+      "उद्यम पोर्टल"
     ],
-    "answer": 0,
-    "explanation": "सांभर झील सबसे बड़ी खारे पानी की झील है।"
+    "answer": 3,
+    "explanation": "उद्यम पोर्टल MSME रजिस्ट्रेशन के लिए सरकार द्वारा संचालित पोर्टल है।"
   },
   {
     "id": 103,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "राजस्थान की प्रथम महिला मुख्यमंत्री?",
+    "topic": "world-india-gk",
+    "subtopic": "indian-economy",
+    "question": "किस बजट में किसानों को 1.5 गुना MSP देने की घोषणा की गई?",
     "options": [
-      "वसुन्धरा राजे",
-      "कमला बेनीवाल",
-      "गायत्री देवी",
-      "जय किशन"
+      "2020-21",
+      "2021-22",
+      "2018-19",
+      "2019-20"
     ],
-    "answer": 0,
-    "explanation": "वसुन्धरा राजे 2003 में प्रथम महिला CM।"
+    "answer": 2,
+    "explanation": "केंद्रीय बजट 2018-19 में किसानों को 1.5 गुना MSP देने की घोषणा की गई थी।"
   },
   {
     "id": 104,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान का क्षेत्रफल भारत का कितना प्रतिशत?",
+    "topic": "world-india-gk",
+    "subtopic": "indian-economy",
+    "question": "निर्यातकों को निर्यात साख बीमा सेवाएं प्रदान करने वाली संस्था है?",
     "options": [
-      "5.67%",
-      "10.41%",
-      "15.32%",
-      "8.92%"
+      "विदेशी व्यापार का भारतीय संस्थान",
+      "वाणिज्यिक मंत्रालय",
+      "निर्यात साख गारण्टी निगम",
+      "निर्यात साख बीमा निगम"
     ],
-    "answer": 1,
-    "explanation": "3,42,239 वर्ग किमी = 10.41%।"
+    "answer": 2,
+    "explanation": "निर्यात साख गारण्टी निगम (ECGC) निर्यातकों को साख बीमा सेवाएं प्रदान करता है।"
   },
   {
     "id": 105,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान की प्रमुख स्थायी नदी?",
+    "topic": "world-india-gk",
+    "subtopic": "indian-constitution",
+    "question": "भारत में प्रेस की स्वतंत्रता सुनिश्चित की गई है?",
     "options": [
-      "लूनी",
-      "चम्बल",
-      "बनास",
-      "कातली"
+      "संसद के अधिनियमों के तहत",
+      "कार्यकारी आदेशों के तहत",
+      "संविधान में विशेष रूप से प्रदान",
+      "कानूनी उपबंधों के अभाव में"
     ],
-    "answer": 1,
-    "explanation": "चम्बल स्थायी नदी है।"
+    "answer": 2,
+    "explanation": "प्रेस की स्वतंत्रता अनुच्छेद 19(1)(a) के तहत अभिव्यक्ति की स्वतंत्रता के अंतर्गत संरक्षित है।"
   },
   {
     "id": 106,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "राजपूताना शब्द किसने प्रयोग किया?",
+    "topic": "world-india-gk",
+    "subtopic": "indian-economy",
+    "question": "Export Preparedness Index कौन जारी करता है?",
     "options": [
-      "जार्ज थॉमस",
-      "जेम्स टॉड",
-      "कर्नल टॉड",
-      "बेंटिक"
+      "DIPP",
+      "NITI Aayog",
+      "Ministry of Commerce",
+      "RBI"
     ],
     "answer": 1,
-    "explanation": "जेम्स टॉड ने एनल्स एंड एंटीक्विटीज़ में।"
+    "explanation": "Export Preparedness Index NITI Aayog द्वारा जारी किया जाता है।"
   },
   {
     "id": 107,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "बप्पा रावल किस वंश के संस्थापक?",
+    "topic": "world-india-gk",
+    "subtopic": "indian-constitution",
+    "question": "Government of India Act, 1935 में अवशिष्ट शक्तियां किसमें निहित थीं?",
     "options": [
-      "गुहिल",
-      "राठौड़",
-      "कच्छवाहा",
-      "चौहान"
+      "Governor-General",
+      "Federal Legislature",
+      "Provincial Legislatures",
+      "Secretary of State"
     ],
     "answer": 0,
-    "explanation": "बप्पा रावल (734-753) गुहिल वंश के संस्थापक।"
+    "explanation": "भारत सरकार अधिनियम 1935 के तहत अवशिष्ट शक्तियां गवर्नर-जनरल में निहित थीं।"
   },
   {
     "id": 108,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "society-religion",
-    "question": "बुलंद शाही दरवाजा कहाँ है?",
+    "topic": "world-india-gk",
+    "subtopic": "indian-constitution",
+    "question": "Government of India Act, 1919 के तहत मतदान का अधिकार किसे प्राप्त था?",
     "options": [
-      "जयपुर",
-      "जोधपुर",
-      "बीकानेर",
-      "उदयपुर"
+      "सभी वयस्कों को",
+      "संपत्ति वालों को",
+      "शिक्षितों को",
+      "सभी को"
     ],
-    "answer": 2,
-    "explanation": "बीकानेर में महाराजा अनूप सिंह ने बनवाया।"
+    "answer": 1,
+    "explanation": "भारत सरकार अधिनियम 1919 में सीमित मताधिकार था जो संपत्ति, कर या शिक्षा पर आधारित था।"
   },
   {
     "id": 109,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान में मरुस्थल का क्षेत्रफल?",
+    "topic": "world-india-gk",
+    "subtopic": "indian-constitution",
+    "question": "भारतीय संविधान का कौन सा भाग राज्य के नीति निदेशक तत्वों से संबंधित है?",
     "options": [
-      "50%",
-      "60%",
-      "70%",
-      "80%"
+      "भाग III",
+      "भाग IV",
+      "भाग IV-A",
+      "भाग V"
     ],
     "answer": 1,
-    "explanation": "लगभग 60% भाग मरुस्थलीय।"
+    "explanation": "अनुच्छेद 36-51, भाग IV में राज्य के नीति निदेशक तत्व दिए गए हैं।"
   },
   {
     "id": 110,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "आमेर का किला किसके लिए बना?",
+    "topic": "world-india-gk",
+    "subtopic": "indian-constitution",
+    "question": "राष्ट्रपति के चुनाव की विधि क्या है?",
     "options": [
-      "पुत्र",
-      "पत्नी",
-      "माता",
-      "देवी"
+      "प्रत्यक्ष",
+      "अप्रत्यक्ष",
+      "दोनों",
+      "मनोनीत"
     ],
-    "answer": 2,
-    "explanation": "राजा मानसिंह ने अपनी माता के लिए बनवाया।"
+    "answer": 1,
+    "explanation": "राष्ट्रपति का चुनाव एकल संक्रमणीय मत के माध्यम से अप्रत्यक्ष रूप से होता है।"
   },
   {
     "id": 111,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "सबसे प्राचीन शैल चित्र कहाँ?",
+    "topic": "world-india-gk",
+    "subtopic": "indian-constitution",
+    "question": "संविधान सभा के लिए चुनाव कब हुए थे?",
     "options": [
-      "बीकानेर",
-      "भीलवाड़ा",
-      "कोटा",
-      "सवाई माधोपुर"
+      "1945",
+      "1946",
+      "1947",
+      "1948"
     ],
     "answer": 1,
-    "explanation": "भीलवाड़ा की आहड़ नदी घाटी में।"
+    "explanation": "संविधान सभा के लिए चुनाव जुलाई-अगस्त 1946 में हुए थे।"
   },
   {
     "id": 112,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "राजस्थान के एकीकरण में मुख्य भूमिका?",
-    "options": [
-      "सरदार पटेल",
-      "नेहरू",
-      "वल्लभभाई पटेल",
-      "राजेन्द्र प्रसाद"
-    ],
-    "answer": 2,
-    "explanation": "सरदार पटेल ने 18 रियासतों को मिलाया।"
-  },
-  {
-    "id": 113,
-    "paper": 1,
-    "year": "2023",
-    "shift": "B",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान में कितने जिले हैं?",
-    "options": [
-      "30",
-      "33",
-      "50",
-      "52"
-    ],
-    "answer": 2,
-    "explanation": "राजस्थान में 50 जिले (2024 तक)।"
-  },
-  {
-    "id": 114,
-    "paper": 1,
-    "year": "2023",
-    "shift": "B",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राज्य पुष्प क्या है?",
-    "options": [
-      "कमल",
-      "गुलाब",
-      "रोहिड़ा",
-      "सूर्यमुखी"
-    ],
-    "answer": 2,
-    "explanation": "रोहिड़ा राजस्थान का राज्य पुष्प है।"
-  },
-  {
-    "id": 115,
-    "paper": 1,
-    "year": "2023",
-    "shift": "B",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राज्य खेल क्या है?",
-    "options": [
-      "क्रिकेट",
-      "हॉकी",
-      "बास्केटबॉल",
-      "वॉलीबॉल"
-    ],
-    "answer": 2,
-    "explanation": "बास्केटबॉल राज्य खेल है।"
-  },
-  {
-    "id": 116,
-    "paper": 1,
-    "year": "2023",
-    "shift": "B",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "सबसे कम जनसंख्या वाला जिला?",
-    "options": [
-      "जैसलमेर",
-      "बाड़मेर",
-      "प्रतापगढ़",
-      "डूंगरपुर"
-    ],
-    "answer": 0,
-    "explanation": "जैसलमेर सबसे कम जनसंख्या वाला।"
-  },
-  {
-    "id": 117,
-    "paper": 1,
-    "year": "2023",
-    "shift": "B",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "राजस्थान का पहला समाचार पत्र?",
-    "options": [
-      "राजपूताना गजट",
-      "मारवाड़ हितैषी",
-      "जयपुर समाचार",
-      "राजस्थान पत्रिका"
-    ],
-    "answer": 0,
-    "explanation": "राजपूताना गजट पहला समाचार पत्र।"
-  },
-  {
-    "id": 118,
-    "paper": 1,
-    "year": "2023",
-    "shift": "B",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "प्रथम लोकायुक्त कौन थे?",
-    "options": [
-      "जस्टिस ए.डी. दवे",
-      "जस्टिस के.डी. शर्मा",
-      "जस्टिस आई.डी. दुआ",
-      "जस्टिस एस.एन. भार्गव"
-    ],
-    "answer": 0,
-    "explanation": "जस्टिस ए.डी. दवे प्रथम लोकायुक्त।"
-  },
-  {
-    "id": 119,
-    "paper": 1,
-    "year": "2023",
-    "shift": "B",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "मेवाड़ के प्रथम शासक?",
-    "options": [
-      "बप्पा रावल",
-      "हम्मीर",
-      "राणा कुंभा",
-      "राणा सांगा"
-    ],
-    "answer": 0,
-    "explanation": "बप्पा रावल (734 ई.) प्रथम शासक।"
-  },
-  {
-    "id": 120,
-    "paper": 1,
-    "year": "2023",
-    "shift": "B",
-    "topic": "rajasthan-gk",
-    "subtopic": "society-religion",
-    "question": "हाड़ौती का प्रसिद्ध नृत्य?",
-    "options": [
-      "गैर",
-      "चकरी",
-      "घूमर",
-      "तेरह ताली"
-    ],
-    "answer": 1,
-    "explanation": "चकरी हाड़ौती का नृत्य है।"
-  },
-  {
-    "id": 121,
-    "paper": 1,
-    "year": "2023",
-    "shift": "B",
-    "topic": "rajasthan-gk",
-    "subtopic": "society-religion",
-    "question": "मीरा बाई का मंदिर कहाँ?",
-    "options": [
-      "जोधपुर",
-      "मेड़ता",
-      "नागौर",
-      "अजमेर"
-    ],
-    "answer": 1,
-    "explanation": "मीरा बाई का मंदिर मेड़ता (नागौर) में।"
-  },
-  {
-    "id": 122,
-    "paper": 1,
-    "year": "2023",
-    "shift": "B",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-polity",
-    "question": "विधानसभा में कितनी सीटें?",
-    "options": [
-      "200",
-      "250",
-      "300",
-      "150"
-    ],
-    "answer": 0,
-    "explanation": "200 सीटें।"
-  },
-  {
-    "id": 123,
-    "paper": 1,
-    "year": "2023",
-    "shift": "B",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-polity",
-    "question": "राजस्थान में विधान परिषद्?",
-    "options": [
-      "हाँ",
-      "नहीं",
-      "प्रस्तावित",
-      "पहले थी"
-    ],
-    "answer": 1,
-    "explanation": "राजस्थान में विधान परिषद् नहीं।"
-  },
-  {
-    "id": 124,
-    "paper": 1,
-    "year": "2023",
-    "shift": "C",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "राणा सांगा ने बाबर को कहाँ हराया?",
-    "options": [
-      "पानीपत",
-      "खानवा",
-      "चंदेरी",
-      "बयाना"
-    ],
-    "answer": 3,
-    "explanation": "बयाना के युद्ध (1527) में।"
-  },
-  {
-    "id": 125,
-    "paper": 1,
-    "year": "2023",
-    "shift": "C",
-    "topic": "rajasthan-gk",
-    "subtopic": "society-religion",
-    "question": "प्रसिद्ध ऊँट मेला कहाँ?",
-    "options": [
-      "पुष्कर",
-      "बीकानेर",
-      "नागौर",
-      "जैसलमेर"
-    ],
-    "answer": 1,
-    "explanation": "बीकानेर का ऊँट मेला प्रसिद्ध।"
-  },
-  {
-    "id": 126,
-    "paper": 1,
-    "year": "2023",
-    "shift": "C",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान की मिट्टी के कितने प्रकार?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
-    ],
-    "answer": 1,
-    "explanation": "6 प्रकार की मिट्टी।"
-  },
-  {
-    "id": 127,
-    "paper": 1,
-    "year": "2023",
-    "shift": "C",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "दासी मंडल की स्थापना किसने की?",
-    "options": [
-      "विजयादेवी",
-      "मीरा बाई",
-      "कमला देवी",
-      "सरोजिनी नायडू"
-    ],
-    "answer": 0,
-    "explanation": "विजयादेवी ने दासी मंडल स्थापित किया।"
-  },
-  {
-    "id": 128,
-    "paper": 1,
-    "year": "2023",
-    "shift": "C",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-polity",
-    "question": "पंचायती चुनाव कौन कराता है?",
-    "options": [
-      "निर्वाचन आयोग",
-      "राज्य निर्वाचन आयोग",
-      "पंचायती राज विभाग",
-      "जिला परिषद"
-    ],
-    "answer": 1,
-    "explanation": "राज्य निर्वाचन आयोग।"
-  },
-  {
-    "id": 129,
-    "paper": 1,
-    "year": "2023",
-    "shift": "C",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "जल समस्या के लिए प्रसिद्ध नदी?",
-    "options": [
-      "लूनी",
-      "बनास",
-      "चम्बल",
-      "काली सिंध"
-    ],
-    "answer": 0,
-    "explanation": "लूनी नदी का जल लवणीय है।"
-  },
-  {
-    "id": 130,
-    "paper": 1,
-    "year": "2023",
-    "shift": "C",
-    "topic": "rajasthan-gk",
-    "subtopic": "freedom-struggle",
-    "question": "1857 की क्रांति का नेतृत्व?",
-    "options": [
-      "तांत्या टोपे",
-      "नाना साहेब",
-      "झाँसी की रानी",
-      "कुंवर सिंह"
-    ],
-    "answer": 0,
-    "explanation": "तांत्या टोपे ने राजस्थान में नेतृत्व किया।"
-  },
-  {
-    "id": 131,
-    "paper": 1,
-    "year": "2023",
-    "shift": "C",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "बिजौलिया आंदोलन कब?",
-    "options": [
-      "1913",
-      "1915",
-      "1920",
-      "1925"
-    ],
-    "answer": 0,
-    "explanation": "बिजौलिया किसान आंदोलन 1913 में।"
-  },
-  {
-    "id": 132,
-    "paper": 1,
-    "year": "2023",
-    "shift": "C",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "कितने वन्यजीव अभयारण्य?",
-    "options": [
-      "15",
-      "20",
-      "25",
-      "30"
-    ],
-    "answer": 2,
-    "explanation": "राजस्थान में 25 अभयारण्य।"
-  },
-  {
-    "id": 133,
-    "paper": 1,
-    "year": "2023",
-    "shift": "C",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान की जलवायु?",
-    "options": [
-      "उष्णकटिबंधीय",
-      "शुष्क",
-      "आर्द्र",
-      "भूमध्यसागरीय"
-    ],
-    "answer": 1,
-    "explanation": "शुष्क एवं अर्ध-शुष्क जलवायु।"
-  },
-  {
-    "id": 134,
-    "paper": 1,
-    "year": "2023",
-    "shift": "C",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "राजस्थान का प्रथम मुख्यमंत्री?",
-    "options": [
-      "हीरालाल शास्त्री",
-      "टीकाराम पालीवाल",
-      "मोहनलाल सुखाड़िया",
-      "जय नारायण व्यास"
-    ],
-    "answer": 0,
-    "explanation": "हीरालाल शास्त्री प्रथम मुख्यमंत्री (1949)।"
-  },
-  {
-    "id": 135,
-    "paper": 1,
-    "year": "2023",
-    "shift": "D",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान का राजकीय पक्षी?",
-    "options": [
-      "मोर",
-      "गोडावण",
-      "तोता",
-      "कबूतर"
-    ],
-    "answer": 1,
-    "explanation": "गोडावण (ग्रेट इंडियन बस्टर्ड)।"
-  },
-  {
-    "id": 136,
-    "paper": 1,
-    "year": "2023",
-    "shift": "D",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान का राजकीय पशु?",
-    "options": [
-      "शेर",
-      "बाघ",
-      "चिंकारा",
-      "हाथी"
-    ],
-    "answer": 2,
-    "explanation": "चिंकारा (गजेला बेनेटी)।"
-  },
-  {
-    "id": 137,
-    "paper": 1,
-    "year": "2023",
-    "shift": "D",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान का सबसे छोटा जिला?",
-    "options": [
-      "धौलपुर",
-      "जयपुर",
-      "अजमेर",
-      "कोटा"
-    ],
-    "answer": 0,
-    "explanation": "धौलपुर (3,033 वर्ग किमी) सबसे छोटा।"
-  },
-  {
-    "id": 138,
-    "paper": 1,
-    "year": "2023",
-    "shift": "D",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान की राजधानी?",
-    "options": [
-      "जयपुर",
-      "जोधपुर",
-      "उदयपुर",
-      "अजमेर"
-    ],
-    "answer": 0,
-    "explanation": "जयपुर गुलाबी नगर।"
-  },
-  {
-    "id": 139,
-    "paper": 1,
-    "year": "2023",
-    "shift": "D",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "सवाई जयसिंह द्वितीय का समय?",
-    "options": [
-      "1700-1743",
-      "1688-1743",
-      "1727-1750",
-      "1699-1743"
-    ],
-    "answer": 0,
-    "explanation": "सवाई जयसिंह (1700-1743)।"
-  },
-  {
-    "id": 140,
-    "paper": 1,
-    "year": "2023",
-    "shift": "D",
-    "topic": "rajasthan-gk",
-    "subtopic": "society-religion",
-    "question": "पाबूजी किस जाति के आराध्य?",
-    "options": [
-      "गुर्जर",
-      "राजपूत",
-      "भील",
-      "मीणा"
-    ],
-    "answer": 2,
-    "explanation": "पाबूजी भील जाति के आराध्य देवता।"
-  },
-  {
-    "id": 141,
-    "paper": 1,
-    "year": "2023",
-    "shift": "D",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "राजस्थान की प्रथम महिला लोकसभा सांसद कौन थीं?",
-    "options": [
-      "गायत्री देवी",
-      "महारानी कमला देवी",
-      "जमुना देवी",
-      "विजयादेवी"
-    ],
-    "answer": 0,
-    "explanation": "गायत्री देवी जयपुर से प्रथम महिला सांसद थीं।"
-  },
-  {
-    "id": 142,
-    "paper": 1,
-    "year": "2023",
-    "shift": "D",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान में 'पृथ्वी का स्वर्ग' किसे कहा जाता है?",
-    "options": [
-      "माउंट आबू",
-      "उदयपुर",
-      "जयपुर",
-      "जैसलमेर"
-    ],
-    "answer": 0,
-    "explanation": "माउंट आबू को 'पृथ्वी का स्वर्ग' कहा जाता है।"
-  },
-  {
-    "id": 143,
-    "paper": 1,
-    "year": "2023",
-    "shift": "A",
     "topic": "world-india-gk",
     "subtopic": "indian-constitution",
-    "question": "अनुच्छेद 32 कहलाता है?",
-    "options": [
-      "नीति निदेशक",
-      "मौलिक अधिकार",
-      "संवैधानिक उपचार",
-      "मौलिक कर्तव्य"
-    ],
-    "answer": 2,
-    "explanation": "अनुच्छेद 32 संवैधानिक उपचारों का अधिकार।"
-  },
-  {
-    "id": 144,
-    "paper": 1,
-    "year": "2023",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "india-geo",
-    "question": "सबसे लंबी तटरेखा वाला राज्य?",
-    "options": [
-      "गुजरात",
-      "तमिलनाडु",
-      "महाराष्ट्र",
-      "आंध्र"
-    ],
-    "answer": 0,
-    "explanation": "गुजरात ~1,600 किमी तटरेखा।"
-  },
-  {
-    "id": 145,
-    "paper": 1,
-    "year": "2023",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "जल का रासायनिक सूत्र?",
-    "options": [
-      "H2O",
-      "CO2",
-      "NaCl",
-      "HCl"
-    ],
-    "answer": 0,
-    "explanation": "H₂O: दो हाइड्रोजन, एक ऑक्सीजन।"
-  },
-  {
-    "id": 146,
-    "paper": 1,
-    "year": "2023",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "सबसे बड़ी हड्डी?",
-    "options": [
-      "फीमर",
-      "टिबिया",
-      "ह्यूमरस",
-      "रीढ़"
-    ],
-    "answer": 0,
-    "explanation": "फीमर (जांघ) सबसे बड़ी हड्डी।"
-  },
-  {
-    "id": 147,
-    "paper": 1,
-    "year": "2023",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "world-geo",
-    "question": "सबसे बड़ा महाद्वीप?",
-    "options": [
-      "अफ्रीका",
-      "एशिया",
-      "उत्तरी अमेरिका",
-      "यूरोप"
-    ],
-    "answer": 1,
-    "explanation": "एशिया ~30% भू-क्षेत्रफल।"
-  },
-  {
-    "id": 148,
-    "paper": 1,
-    "year": "2023",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "world-geo",
-    "question": "सबसे लंबी नदी?",
-    "options": [
-      "अमेज़न",
-      "नील",
-      "मिसीसिपी",
-      "यांग्त्सी"
-    ],
-    "answer": 1,
-    "explanation": "नील (6,650 किमी) सबसे लंबी।"
-  },
-  {
-    "id": 149,
-    "paper": 1,
-    "year": "2023",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "मानव में गुणसूत्र?",
-    "options": [
-      "23",
-      "24",
-      "46",
-      "48"
-    ],
-    "answer": 2,
-    "explanation": "23 जोड़े (46) गुणसूत्र।"
-  },
-  {
-    "id": 150,
-    "paper": 1,
-    "year": "2023",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "प्रकाश संश्लेषण में कौन सी गैस?",
-    "options": [
-      "CO2",
-      "O2",
-      "N2",
-      "H2"
-    ],
-    "answer": 1,
-    "explanation": "पौधे ऑक्सीजन छोड़ते हैं।"
-  },
-  {
-    "id": 151,
-    "paper": 1,
-    "year": "2023",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "सूर्य में ऊर्जा कैसे?",
-    "options": [
-      "रासायनिक",
-      "नाभिकीय संलयन",
-      "विखंडन",
-      "गुरुत्वाकर्षण"
-    ],
-    "answer": 1,
-    "explanation": "हाइड्रोजन का हीलियम में संलयन।"
-  },
-  {
-    "id": 152,
-    "paper": 1,
-    "year": "2023",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "ग्रीनहाउस गैस?",
-    "options": [
-      "O2",
-      "N2",
-      "CO2",
-      "H2"
-    ],
-    "answer": 2,
-    "explanation": "CO₂ मुख्य ग्रीनहाउस गैस।"
-  },
-  {
-    "id": 153,
-    "paper": 1,
-    "year": "2023",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "रक्त का थक्का जमाने वाला विटामिन?",
-    "options": [
-      "A",
-      "B",
-      "K",
-      "D"
-    ],
-    "answer": 2,
-    "explanation": "विटामिन K रक्त का थक्का जमाता है।"
-  },
-  {
-    "id": 154,
-    "paper": 1,
-    "year": "2023",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "india-geo",
-    "question": "भारत का सबसे ऊँचा शिखर?",
-    "options": [
-      "K2",
-      "कंचनजंगा",
-      "नंदा देवी",
-      "एवरेस्ट"
-    ],
-    "answer": 0,
-    "explanation": "K2 (8,611 मी) लद्दाख में।"
-  },
-  {
-    "id": 155,
-    "paper": 1,
-    "year": "2023",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "india-geo",
-    "question": "मुख्य भूमि का अक्षांशीय विस्तार?",
-    "options": [
-      "8°4'N-37°6'N",
-      "6°N-34°N",
-      "10°N-40°N",
-      "12°N-38°N"
-    ],
-    "answer": 0,
-    "explanation": "8°4'N से 37°6'N तक।"
-  },
-  {
-    "id": 156,
-    "paper": 1,
-    "year": "2023",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "indian-economy",
-    "question": "GDP में सर्वाधिक योगदान?",
-    "options": [
-      "कृषि",
-      "उद्योग",
-      "सेवा",
-      "निर्माण"
-    ],
-    "answer": 2,
-    "explanation": "सेवा क्षेत्र ~55% GDP।"
-  },
-  {
-    "id": 157,
-    "paper": 1,
-    "year": "2023",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "indian-constitution",
-    "question": "अनुच्छेद 370 किस राज्य से?",
-    "options": [
-      "हिमाचल",
-      "उत्तराखंड",
-      "जम्मू-कश्मीर",
-      "सिक्किम"
-    ],
-    "answer": 2,
-    "explanation": "J&K को विशेष प्रावधान, 2019 में निरस्त।"
-  },
-  {
-    "id": 158,
-    "paper": 1,
-    "year": "2023",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "indian-constitution",
-    "question": "मूल संविधान में कितने अधिकार?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
-    ],
-    "answer": 1,
-    "explanation": "44वें संशोधन से 6 मौलिक अधिकार।"
-  },
-  {
-    "id": 159,
-    "paper": 1,
-    "year": "2023",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "indian-constitution",
-    "question": "संविधान सभा के अस्थायी अध्यक्ष?",
+    "question": "संविधान सभा के स्थायी अध्यक्ष कौन थे?",
     "options": [
       "सच्चिदानंद सिन्हा",
       "राजेन्द्र प्रसाद",
       "आंबेडकर",
       "नेहरू"
     ],
+    "answer": 1,
+    "explanation": "डॉ. राजेन्द्र प्रसाद संविधान सभा के स्थायी अध्यक्ष चुने गए थे।"
+  },
+  {
+    "id": 113,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "world-india-gk",
+    "subtopic": "indian-constitution",
+    "question": "गोलकनाथ केस किससे संबंधित है?",
+    "options": [
+      "मौलिक अधिकार",
+      "संशोधन शक्ति",
+      "संघीय ढांचा",
+      "न्यायिक पुनरावलोकन"
+    ],
+    "answer": 1,
+    "explanation": "गोलकनाथ वाद (1967) में सर्वोच्च न्यायालय ने कहा कि संसद मौलिक अधिकारों में संशोधन नहीं कर सकती।"
+  },
+  {
+    "id": 114,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "world-india-gk",
+    "subtopic": "indian-foreign-policy",
+    "question": "पंचशील समझौते पर हस्ताक्षर कब हुए?",
+    "options": [
+      "1953",
+      "1954",
+      "1955",
+      "1956"
+    ],
+    "answer": 1,
+    "explanation": "भारत-चीन पंचशील समझौते पर 29 अप्रैल 1954 को हस्ताक्षर हुए।"
+  },
+  {
+    "id": 115,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "world-india-gk",
+    "subtopic": "indian-foreign-policy",
+    "question": "'Twilight in China' के लेखक कौन हैं?",
+    "options": [
+      "नेहरू",
+      "राजा राम मोहन राय",
+      "सरदार पटेल",
+      "के.एम. पनिक्कर"
+    ],
+    "answer": 3,
+    "explanation": "के.एम. पनिक्कर ने Twilight in China पुस्तक लिखी।"
+  },
+  {
+    "id": 116,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "world-india-gk",
+    "subtopic": "indian-foreign-policy",
+    "question": "संयुक्त राष्ट्र महासभा की अध्यक्ष बनने वाली प्रथम महिला कौन थी?",
+    "options": [
+      "विजयालक्ष्मी पंडित",
+      "एनी बेसेंट",
+      "अरुणा आसफ अली",
+      "सरोजिनी नायडू"
+    ],
     "answer": 0,
-    "explanation": "डॉ. सच्चिदानंद सिन्हा अस्थायी अध्यक्ष।"
+    "explanation": "विजयालक्ष्मी पंडित 1953 में संयुक्त राष्ट्र महासभा की अध्यक्ष बनने वाली प्रथम महिला थीं।"
+  },
+  {
+    "id": 117,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "world-india-gk",
+    "subtopic": "indian-constitution",
+    "question": "लोकसभा का नेता कौन होता है?",
+    "options": [
+      "लोकसभा अध्यक्ष",
+      "उपराष्ट्रपति",
+      "राष्ट्रपति",
+      "प्रधानमंत्री"
+    ],
+    "answer": 3,
+    "explanation": "लोकसभा में बहुमत दल का नेता प्रधानमंत्री होता है जो लोकसभा का नेता भी होता है।"
+  },
+  {
+    "id": 118,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "world-india-gk",
+    "subtopic": "indian-constitution",
+    "question": "2019 के आम चुनावों में राष्ट्रीय राजनीतिक दलों ने कुल कितनी सीटें जीतीं?",
+    "options": [
+      "342",
+      "397",
+      "405",
+      "272"
+    ],
+    "answer": 1,
+    "explanation": "2019 के लोकसभा चुनावों में राष्ट्रीय दलों ने 397 सीटें जीतीं।"
+  },
+  {
+    "id": 119,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "world-india-gk",
+    "subtopic": "indian-constitution",
+    "question": "CII और FICCI हैं?",
+    "options": [
+      "परमाणु संधि",
+      "आतंकवादी संगठन",
+      "दबाव समूह",
+      "राजनीतिक दल"
+    ],
+    "answer": 2,
+    "explanation": "CII और FICCI व्यापारिक संगठन हैं जो दबाव समूह के रूप में कार्य करते हैं।"
+  },
+  {
+    "id": 120,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "world-india-gk",
+    "subtopic": "indian-foreign-policy",
+    "question": "31 अगस्त 1989 को कौन सी संधि पर हस्ताक्षर हुए?",
+    "options": [
+      "आणविक अप्रसार संधि",
+      "IRBM संधि (इंटरमीडिएट रेंज बैलिस्टिक मिसाइल संधि)",
+      "जर्मनी एकीकरण संधि",
+      "आंशिक परीक्षण निषेध संधि"
+    ],
+    "answer": 1,
+    "explanation": "31 अगस्त 1989 को भारत और अमेरिका के बीच IRBM संधि पर हस्ताक्षर हुए।"
+  },
+  {
+    "id": 121,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "edu-psychology",
+    "subtopic": "meaning-scope",
+    "question": "शिक्षा मनोविज्ञान के महत्त्व के सन्दर्भ में निम्नलिखित कथनों पर विचार कीजिए-\n(a) व्यवहार में परिवर्तन लाना\n(b) शैक्षिक समस्याओं के प्रति सकारात्मक अभिवृत्ति\n(c) वैयक्तिक विभिन्नताओं को नजरअंदाज करना\n(d) शिक्षक स्वयं को समझे\nसही कथनों का चयन कीजिए-",
+    "options": [
+      "a, b, d",
+      "a, b, c, d",
+      "a, b",
+      "a, d"
+    ],
+    "answer": 0,
+    "explanation": "शिक्षा मनोविज्ञान व्यवहार परिवर्तन, शैक्षिक समस्याओं के प्रति सकारात्मक अभिवृत्ति और शिक्षक को स्वयं समझने में सहायक है। यह वैयक्तिक विभिन्नताओं को नजरअंदाज नहीं करता।"
+  },
+  {
+    "id": 122,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "edu-psychology",
+    "subtopic": "meaning-scope",
+    "question": "निम्नलिखित में से कौन सी शिक्षा मनोविज्ञान की विशेषता नहीं है?",
+    "options": [
+      "मानव व्यवहार का अध्ययन",
+      "शिक्षण अधिगम प्रक्रिया हेतु मार्ग प्रशस्त",
+      "मुख्य केन्द्र दर्शनशास्त्र",
+      "मुख्य केन्द्र मानव व्यवहार"
+    ],
+    "answer": 2,
+    "explanation": "शिक्षा मनोविज्ञान का मुख्य केन्द्र मानव व्यवहार है, दर्शनशास्त्र नहीं।"
+  },
+  {
+    "id": 123,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "edu-psychology",
+    "subtopic": "learner-development",
+    "question": "विकास के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए-\n(a) विकास पूर्वानुमानित है\n(b) विकास अंश से संपूर्ण की ओर होता है\n(c) विकास रेखीय पथ पर चलता है\n(d) विकास के सभी आयाम समन्वित होते हैं\nसही कथनों का चयन कीजिए-",
+    "options": [
+      "a, b, c",
+      "a, b, c, d",
+      "a, c",
+      "a, d"
+    ],
+    "answer": 3,
+    "explanation": "विकास पूर्वानुमानित होता है और इसके सभी आयाम समन्वित होते हैं। विकास संपूर्ण से अंश की ओर होता है और रेखीय नहीं होता।"
+  },
+  {
+    "id": 124,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "edu-psychology",
+    "subtopic": "learner-development",
+    "question": "पियाजे के संज्ञानात्मक विकास की किस अवस्था में बालक प्रतिवर्त्यता को समझने लगता है?",
+    "options": [
+      "अंतःप्रज्ञ अवस्था",
+      "पूर्व संप्रत्ययात्मक अवस्था",
+      "मूर्त संक्रियात्मक अवस्था",
+      "औपचारिक संक्रियात्मक अवस्था"
+    ],
+    "answer": 2,
+    "explanation": "मूर्त संक्रियात्मक अवस्था (7-11 वर्ष) में बालक प्रतिवर्त्यता और संरक्षण की अवधारणा समझने लगता है।"
+  },
+  {
+    "id": 125,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "edu-psychology",
+    "subtopic": "learner-development",
+    "question": "कोहलबर्ग के पारंपरिक नैतिकता स्तर के अंतर्गत कौन सी अवस्था आती है?\n(a) दण्ड एवं आज्ञाकारिता\n(b) सामाजिक अनुबंध\n(c) अच्छे अन्तःवैयक्तिक संबंध\n(d) सार्वत्रिक नीतिपरक",
+    "options": [
+      "केवल c",
+      "a, d",
+      "a, c",
+      "केवल b"
+    ],
+    "answer": 0,
+    "explanation": "पारंपरिक स्तर के अंतर्गत अच्छे अन्तःवैयक्तिक संबंध (चरण 3) और सामाजिक व्यवस्था (चरण 4) आते हैं।"
+  },
+  {
+    "id": 126,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "edu-psychology",
+    "subtopic": "learning-theories",
+    "question": "अधिगम की सही विशेषता नहीं है?",
+    "options": [
+      "नयी क्रियाओं का अर्जन",
+      "थकान/परिपक्वता को अधिगम कहा जा सकता है",
+      "उद्देश्यपूर्ण",
+      "मापन निष्पादन के आधार पर"
+    ],
+    "answer": 1,
+    "explanation": "थकान और परिपक्वता के कारण होने वाले परिवर्तन अधिगम नहीं कहलाते। अधिगम में व्यवहार में स्थायी परिवर्तन होता है।"
+  },
+  {
+    "id": 127,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "edu-psychology",
+    "subtopic": "learning-theories",
+    "question": "बंडुरा के अवलोकनात्मक अधिगम सिद्धांत में प्रथम प्रक्रिया कौन सी है?",
+    "options": [
+      "अवधानात्मक प्रक्रिया",
+      "अभिप्रेरणात्मक प्रक्रिया",
+      "धारणात्मक प्रक्रिया",
+      "उत्पादन प्रक्रिया"
+    ],
+    "answer": 0,
+    "explanation": "बंडुरा के सामाजिक अधिगम सिद्धांत में अवधान (ध्यान) प्रथम प्रक्रिया है।"
+  },
+  {
+    "id": 128,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "edu-psychology",
+    "subtopic": "learning-theories",
+    "question": "निर्मितवादी अधिगम के संदर्भ में निम्नलिखित पर विचार कीजिए-\n(a) अधिगमकर्ता ज्ञान निर्माण हेतु सक्रिय है\n(b) सामाजिक अंतःक्रिया अधिगम में महत्वपूर्ण है",
+    "options": [
+      "दोनों (a) और (b) आवश्यक हैं",
+      "दोनों (a) और (b) आवश्यक नहीं हैं",
+      "केवल (a)",
+      "केवल (b)"
+    ],
+    "answer": 0,
+    "explanation": "निर्मितवाद के अनुसार अधिगमकर्ता सक्रिय रूप से ज्ञान का निर्माण करता है और सामाजिक अंतःक्रिया अधिगम में महत्वपूर्ण है।"
+  },
+  {
+    "id": 129,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "edu-psychology",
+    "subtopic": "intelligence-creativity",
+    "question": "निम्नलिखित का सही मिलान कीजिए-\n(a) पास अलॉन्ग परीक्षण - (i) टर्मन\n(b) संस्कृति मुक्त परीक्षण - (ii) एलेक्ज़ेंडर\n(c) सम्मिलन सिद्धांत - (iii) कैटल\n(d) आई.क्यू. - (iv) जेज़ॉन्क",
+    "options": [
+      "ii, iv, i, iii",
+      "iii, iv, ii, i",
+      "i, ii, iii, iv",
+      "ii, iii, iv, i"
+    ],
+    "answer": 3,
+    "explanation": "सही मिलान: पास अलॉन्ग-एलेक्ज़ेंडर, संस्कृति मुक्त-कैटल, सम्मिलन सिद्धांत-जेज़ॉन्क, आई.क्यू.-टार्मन"
+  },
+  {
+    "id": 130,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "edu-psychology",
+    "subtopic": "personality",
+    "question": "जुंग के अनुसार समाजसेवी, राजनीतिज्ञ, व्यापार प्रबंधक किस श्रेणी के व्यक्तित्व के अंतर्गत आते हैं?",
+    "options": [
+      "उभयमुखी",
+      "बहिर्मुखी",
+      "अन्तर्मुखी",
+      "मध्यमुखी"
+    ],
+    "answer": 1,
+    "explanation": "जुंग के अनुसार समाजसेवी, राजनीतिज्ञ और व्यापार प्रबंधक बहिर्मुखी व्यक्तित्व श्रेणी में आते हैं।"
+  },
+  {
+    "id": 131,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "edu-psychology",
+    "subtopic": "personality",
+    "question": "व्यक्तित्व आकलन की परिस्थिति परीक्षण विधि का उदाहरण नहीं है?",
+    "options": [
+      "सैन्य स्थिति परीक्षण",
+      "MMPI",
+      "समाजमिति",
+      "साइकोड्रामा"
+    ],
+    "answer": 1,
+    "explanation": "MMPI (मिनेसोटा मल्टीफेसिक पर्सनालिटी इन्वेंटरी) एक प्रश्नावली है, परिस्थिति परीक्षण नहीं।"
+  },
+  {
+    "id": 132,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "edu-psychology",
+    "subtopic": "personality",
+    "question": "वृद्ध व्यक्ति अपनी पूर्व सफलताओं के बारे में बार-बार बताता रहता है। यह अहं रक्षा युक्ति का कौन सा उदाहरण है?",
+    "options": [
+      "युक्तिकरण",
+      "उदात्तीकरण",
+      "प्रतिदमन",
+      "प्रतिगमन"
+    ],
+    "answer": 2,
+    "explanation": "प्रतिदमन में व्यक्ति चिंता कम करने के लिए पूर्व सफलताओं का सहारा लेता है।"
+  },
+  {
+    "id": 133,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "edu-psychology",
+    "subtopic": "motivation",
+    "question": "अच्छे ग्रेड प्राप्त करने के लिए कठिन अध्ययन करना किसका उदाहरण है?",
+    "options": [
+      "उच्च बुद्धि",
+      "बाह्य अभिप्रेरणा",
+      "उच्च सर्जनात्मकता",
+      "अच्छी आदत"
+    ],
+    "answer": 1,
+    "explanation": "बाह्य पुरस्कार (ग्रेड) के लिए अध्ययन करना बाह्य अभिप्रेरणा का उदाहरण है।"
+  },
+  {
+    "id": 134,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "edu-psychology",
+    "subtopic": "intelligence-creativity",
+    "question": "पासी के सर्जनात्मकता परीक्षण का उप-परीक्षण नहीं है?",
+    "options": [
+      "परिणाम परीक्षण",
+      "जिज्ञासा परीक्षण",
+      "समस्या अवलोकन",
+      "सामान्य उपयोग परीक्षण"
+    ],
+    "answer": 3,
+    "explanation": "सामान्य उपयोग परीक्षण पासी के सर्जनात्मकता परीक्षण का उप-परीक्षण नहीं है।"
+  },
+  {
+    "id": 135,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "edu-psychology",
+    "subtopic": "intelligence-creativity",
+    "question": "गार्डनर के बहुबुद्धि सिद्धांत के अनुसार स्वयं को समझने की योग्यता कौन सी बुद्धि है?",
+    "options": [
+      "शारीरिक क्रियात्मक",
+      "अस्तित्वपरक",
+      "अन्तः वैयक्तिक",
+      "अंतर्वैयक्तिक"
+    ],
+    "answer": 3,
+    "explanation": "गार्डनर के अनुसार अंतर्वैयक्तिक बुद्धि स्वयं को समझने और आत्म-चिंतन की योग्यता है।"
+  },
+  {
+    "id": 136,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "edu-psychology",
+    "subtopic": "motivation",
+    "question": "अभिप्रेरणा का कौन सा परिप्रेक्ष्य व्यक्तिगत विकास, स्वतंत्रता और सकारात्मक गुणों पर बल देता है?",
+    "options": [
+      "सामाजिक",
+      "मानवतावादी",
+      "व्यवहारवादी",
+      "संज्ञानात्मक"
+    ],
+    "answer": 1,
+    "explanation": "मानवतावादी परिप्रेक्ष्य (मास्लो, रोजर्स) व्यक्तिगत विकास और आत्म-साक्षात्कार पर बल देता है।"
+  },
+  {
+    "id": 137,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "edu-psychology",
+    "subtopic": "personality",
+    "question": "आत्म-प्रत्यय का वह दृष्टिकोण जिसमें व्यक्ति स्वयं को अपने आंतरिक विचारों, भावनाओं और क्रियाओं के रूप में परिभाषित करता है, कहलाता है?",
+    "options": [
+      "स्वतंत्र आत्म-प्रत्यय",
+      "आश्रित आत्म-प्रत्यय",
+      "सामाजिक आत्म-प्रत्यय",
+      "अन्तःनिर्भर आत्म-प्रत्यय"
+    ],
+    "answer": 0,
+    "explanation": "स्वतंत्र आत्म-प्रत्यय में व्यक्ति स्वयं को अपने आंतरिक गुणों से परिभाषित करता है।"
+  },
+  {
+    "id": 138,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "edu-psychology",
+    "subtopic": "intelligence-creativity",
+    "question": "प्रसामान्य वितरण में M±1σ की सीमा में कितने प्रतिशत प्राप्तांक आते हैं?",
+    "options": [
+      "70.14%",
+      "65.42%",
+      "98.26%",
+      "68.26%"
+    ],
+    "answer": 3,
+    "explanation": "प्रसामान्य वितरण में माध्य से ±1 मानक विचलन के अंतर्गत 68.26% प्राप्तांक आते हैं।"
+  },
+  {
+    "id": 139,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "edu-psychology",
+    "subtopic": "individual-differences",
+    "question": "प्रतिभाशाली बालकों को प्रोत्साहित करने का सर्वोत्तम तरीका क्या है?",
+    "options": [
+      "प्रतियोगिता प्रवृत्ति",
+      "सहपाठी शिक्षक नियुक्त करना",
+      "स्वयं अधिगम से प्रेम",
+      "माता-पिता की आकांक्षाएं"
+    ],
+    "answer": 2,
+    "explanation": "प्रतिभाशाली बालकों के लिए स्वयं अधिगम की प्रवृत्ति सर्वोत्तम प्रोत्साहन है।"
+  },
+  {
+    "id": 140,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "edu-psychology",
+    "subtopic": "personality",
+    "question": "किसी उत्पाद के प्रति अभिवृत्ति उसके वस्तुनिष्ठ गुणों के बारे में विश्वास पर आधारित है। यह अभिवृत्ति का कौन सा घटक है?",
+    "options": [
+      "भावात्मक",
+      "व्यवहारात्मक",
+      "मूल्य",
+      "संज्ञानात्मक"
+    ],
+    "answer": 3,
+    "explanation": "वस्तुनिष्ठ गुणों के बारे में विश्वास अभिवृत्ति का संज्ञानात्मक घटक है।"
+  },
+  {
+    "id": 141,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-geo",
+    "question": "राजस्थान में सर्वाधिक वर्षा वाले क्षेत्रों में किस प्रकार के वन पाए जाते हैं?",
+    "options": [
+      "शुष्क सागवान वन",
+      "खैर वन",
+      "मिश्रित पतझड़ी वन",
+      "उष्णकटिबंधीय काँटेदार वन"
+    ],
+    "answer": 0,
+    "explanation": "राजस्थान में सर्वाधिक वर्षा वाले दक्षिणी क्षेत्रों में शुष्क सागवान वन पाए जाते हैं।"
+  },
+  {
+    "id": 142,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-geo",
+    "question": "आर्थिक सर्वेक्षण 2022-23 के अनुसार मूँगफली उत्पादन में राजस्थान का देश में कौन सा स्थान है?",
+    "options": [
+      "तीसरा",
+      "चौथा",
+      "पहला",
+      "दूसरा"
+    ],
+    "answer": 3,
+    "explanation": "आर्थिक सर्वेक्षण 2022-23 के अनुसार मूँगफली उत्पादन में राजस्थान का दूसरा स्थान है।"
+  },
+  {
+    "id": 143,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-geo",
+    "question": "वागड़ नामक ऊबड़-खाबड़ सतह किस नदी के कार्य से निर्मित हुई है?",
+    "options": [
+      "चम्बल",
+      "माही",
+      "बनास",
+      "लूनी"
+    ],
+    "answer": 1,
+    "explanation": "वागड़ क्षेत्र माही नदी के अपरदन कार्य से निर्मित ऊबड़-खाबड़ सतह है।"
+  },
+  {
+    "id": 144,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-geo",
+    "question": "जिलों को वर्षा के आरोही क्रम में व्यवस्थित कीजिए-\nA. बूंदी  B. हनुमानगढ़  C. जयपुर  D. बाँसवाड़ा",
+    "options": [
+      "बूंदी, हनुमानगढ़, जयपुर, बाँसवाड़ा",
+      "बाँसवाड़ा, बूंदी, जयपुर, हनुमानगढ़",
+      "जयपुर, हनुमानगढ़, बूंदी, बाँसवाड़ा",
+      "हनुमानगढ़, जयपुर, बूंदी, बाँसवाड़ा"
+    ],
+    "answer": 3,
+    "explanation": "वर्षा का आरोही क्रम: हनुमानगढ़ (सबसे कम) < जयपुर < बूंदी < बाँसवाड़ा (सबसे अधिक)।"
+  },
+  {
+    "id": 145,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-geo",
+    "question": "मध्यप्रदेश में उद्गम वाली राजस्थान की नदियाँ हैं-\nA. कालीसिंध  B. बेड़च  C. पार्वती  D. बाणगंगा",
+    "options": [
+      "C, D",
+      "B, D",
+      "A, C",
+      "A, B"
+    ],
+    "answer": 2,
+    "explanation": "कालीसिंध और पार्वती नदियाँ मध्यप्रदेश में उद्गमित होती हैं। बेड़च और बाणगंगा राजस्थान में ही उद्गमित होती हैं।"
+  },
+  {
+    "id": 146,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "society-religion",
+    "question": "निम्नलिखित में से गलत युग्म चुनिए-",
+    "options": [
+      "अरथूना मंदिर - डूंगरपुर",
+      "त्रिपुरा सुंदरी मंदिर - बाँसवाड़ा",
+      "सलीम सिंह जी की हवेली - जैसलमेर",
+      "जसवंत थड़ा - जोधपुर"
+    ],
+    "answer": 0,
+    "explanation": "अरथूना मंदिर डूंगरपुर में नहीं बल्कि बाँसवाड़ा में स्थित है।"
+  },
+  {
+    "id": 147,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-geo",
+    "question": "राजस्थान के किन जिलों में 60% से अधिक अनुसूचित जनजाति जनसंख्या है?",
+    "options": [
+      "डूंगरपुर, उदयपुर, प्रतापगढ़",
+      "डूंगरपुर, उदयपुर, दौसा",
+      "बाँसवाड़ा, डूंगरपुर, उदयपुर",
+      "बाँसवाड़ा, डूंगरपुर, प्रतापगढ़"
+    ],
+    "answer": 3,
+    "explanation": "बाँसवाड़ा, डूंगरपुर और प्रतापगढ़ में 60% से अधिक ST जनसंख्या है।"
+  },
+  {
+    "id": 148,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-geo",
+    "question": "खेरी तथा लोही नस्लें क्रमशः किस पशु से संबंधित हैं?",
+    "options": [
+      "बकरी-भेड़",
+      "भेड़-बकरी",
+      "भेड़-ऊँट",
+      "ऊँट-भेड़"
+    ],
+    "answer": 1,
+    "explanation": "खेरी भेड़ की नस्ल है जबकि लोही बकरी की नस्ल है।"
+  },
+  {
+    "id": 149,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-geo",
+    "question": "राजस्थान में अधिकतम शहरी दशकीय परिवर्तन दर वाला जिला कौन सा है?",
+    "options": [
+      "जयपुर",
+      "कोटा",
+      "जैसलमेर",
+      "अलवर"
+    ],
+    "answer": 3,
+    "explanation": "अलवर जिले में अधिकतम शहरी दशकीय परिवर्तन दर दर्ज की गई है।"
+  },
+  {
+    "id": 150,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-geo",
+    "question": "निम्नलिखित में से गलत सुमेलित उद्योग-स्थिति युग्म चुनिए-",
+    "options": [
+      "टायर ट्यूब - अलवर",
+      "पॉलिमर - शाहपुरा",
+      "हाई टेक ग्लास - धौलपुर",
+      "सफेद सीमेंट - निम्बाहेड़ा"
+    ],
+    "answer": 3,
+    "explanation": "सफेद सीमेंट निम्बाहेड़ा (चित्तौड़गढ़) में नहीं बल्कि फलौदी (जोधपुर) में है।"
+  },
+  {
+    "id": 151,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-history",
+    "question": "अलाउद्दीन खिलजी का कौन सा सेनापति रणथम्भौर की घेराबंदी में मारा गया?",
+    "options": [
+      "नुसरत खाँ",
+      "मुहम्मद खाँ",
+      "उलूघ खाँ",
+      "जलाल खाँ"
+    ],
+    "answer": 0,
+    "explanation": "अलाउद्दीन खिलजी का सेनापति नुसरत खाँ रणथम्भौर घेराबंदी (1301) में मारा गया।"
+  },
+  {
+    "id": 152,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-history",
+    "question": "हल्दीघाटी युद्ध को गोगुन्दा युद्ध किसने कहा?",
+    "options": [
+      "अबुल फजल",
+      "निजामुद्दीन अहमद",
+      "अब्दुल कादिर बदायूँनी",
+      "कर्नल जेम्स टॉड"
+    ],
+    "answer": 2,
+    "explanation": "अब्दुल कादिर बदायूँनी ने अपनी रचना मुन्तखब-उत-तवारीख में हल्दीघाटी युद्ध को गोगुन्दा युद्ध कहा है।"
+  },
+  {
+    "id": 153,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "freedom-struggle",
+    "question": "1857 के विद्रोह के समय मेवाड़ का पॉलिटिकल एजेंट कौन था?",
+    "options": [
+      "कर्नल मैलीसन",
+      "मेजर मैक्मेसन",
+      "मेजर शॉवर्स",
+      "कर्नल ईडन"
+    ],
+    "answer": 2,
+    "explanation": "1857 में मेवाड़ के पॉलिटिकल एजेंट मेजर शॉवर्स थे।"
+  },
+  {
+    "id": 154,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "ancient-culture",
+    "question": "राजस्थान के किस पुरास्थल के निवासी वस्त्र-बुनाई से परिचित थे?",
+    "options": [
+      "बैराठ",
+      "कालीबंगा",
+      "बालाथल",
+      "गणेश्वर"
+    ],
+    "answer": 0,
+    "explanation": "बैराठ (जयपुर) में प्राप्त साक्ष्यों से ज्ञात होता है कि यहाँ के निवासी वस्त्र-बुनाई से परिचित थे।"
+  },
+  {
+    "id": 155,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-history",
+    "question": "किस अभिलेख में प्रतिहारों को सौमित्र (लक्ष्मण) से उद्भूत बताया गया है?",
+    "options": [
+      "उज्जैन अभिलेख",
+      "कन्नौज अभिलेख",
+      "ग्वालियर अभिलेख",
+      "जोधपुर अभिलेख"
+    ],
+    "answer": 2,
+    "explanation": "ग्वालियर अभिलेख (मिहिर भोज) में प्रतिहारों को लक्ष्मण का वंशज बताया गया है।"
+  },
+  {
+    "id": 156,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-history",
+    "question": "ललित-विग्रह राज नाटक का लेखक सोमदेव किस चौहान शासक का राजकवि था?",
+    "options": [
+      "जग्गदेव",
+      "विग्रहराज IV",
+      "पृथ्वीराज I",
+      "अर्णोराज"
+    ],
+    "answer": 1,
+    "explanation": "सोमदेव विग्रहराज IV (बीसलदेव) का राजकवि था जिसने ललित-विग्रह राज नाटक की रचना की।"
+  },
+  {
+    "id": 157,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "integration",
+    "question": "मत्स्य संघ का बृहत् राजस्थान में विलय कब हुआ?",
+    "options": [
+      "18 अप्रैल 1948",
+      "30 मार्च 1949",
+      "15 मई 1949",
+      "18 मार्च 1948"
+    ],
+    "answer": 2,
+    "explanation": "मत्स्य संघ का बृहत् राजस्थान में विलय 15 मई 1949 को हुआ।"
+  },
+  {
+    "id": 158,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-history",
+    "question": "कोशवर्द्धन दुर्ग के नाम से जाना जाने वाला दुर्ग कौन सा है?",
+    "options": [
+      "तवनगढ़",
+      "सिवाना",
+      "अलवर का बाला दुर्ग",
+      "शेरगढ़"
+    ],
+    "answer": 3,
+    "explanation": "कोशवर्द्धन दुर्ग शेरगढ़ (बूंदी) को कहा जाता है।"
+  },
+  {
+    "id": 159,
+    "paper": 1,
+    "year": "2023",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "society-religion",
+    "question": "लोक देवता हरभूजी का मुख्य मंदिर कहाँ स्थित है?",
+    "options": [
+      "कोलू",
+      "बेंगटी",
+      "साबला",
+      "सामलिया"
+    ],
+    "answer": 1,
+    "explanation": "लोक देवता हरभूजी का मुख्य मंदिर बेंगटी (जोधपुर) में स्थित है।"
   },
   {
     "id": 160,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "indian-constitution",
-    "question": "प्रथम राष्ट्रपति?",
+    "topic": "rajasthan-gk",
+    "subtopic": "freedom-struggle",
+    "question": "1942 में किस सत्याग्रही की जोधपुर जेल में भूख हड़ताल के दौरान मृत्यु हुई?",
     "options": [
-      "राधाकृष्णन",
-      "राजेन्द्र प्रसाद",
-      "गिरि",
-      "अहमद"
+      "गोपाल लाल पुरोहित",
+      "तारक प्रसाद",
+      "बालमुकुन्द बिस्वा",
+      "शिवकरण थानवी"
     ],
-    "answer": 1,
-    "explanation": "डॉ. राजेन्द्र प्रसाद (1950-1962)।"
+    "answer": 2,
+    "explanation": "बालमुकुन्द बिस्वा की 1942 में जोधपुर जेल में भूख हड़ताल के दौरान मृत्यु हुई थी।"
   },
   {
     "id": 161,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "indian-constitution",
-    "question": "संविधान कब लागू?",
+    "topic": "rajasthan-gk",
+    "subtopic": "freedom-struggle",
+    "question": "चांदकरण शारदा और हरबिलास शारदा किस संस्था से संबंधित थे?",
     "options": [
-      "15 अगस्त 1947",
-      "26 जनवरी 1950",
-      "26 नवंबर 1949",
-      "2 अक्टूबर 1950"
+      "इंडियन एसोसिएशन",
+      "महाजन सभा",
+      "सम्प सभा",
+      "आर्य समाज"
     ],
-    "answer": 1,
-    "explanation": "26 नवंबर 1949 को बना, 26 जनवरी 1950 को लागू।"
+    "answer": 3,
+    "explanation": "चांदकरण शारदा और हरबिलास शारदा आर्य समाज से संबंधित थे।"
   },
   {
     "id": 162,
     "paper": 1,
     "year": "2023",
-    "shift": "B",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "मानव शरीर में कितनी हड्डियाँ?",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "freedom-struggle",
+    "question": "1911-12 में गोविन्द गुरु की गतिविधियों का प्रमुख केंद्र कौन सा था?",
     "options": [
-      "200",
-      "206",
-      "210",
-      "215"
+      "बेडसा",
+      "खेड़ा",
+      "ईडर",
+      "सूंथ"
     ],
-    "answer": 1,
-    "explanation": "206 हड्डियाँ।"
+    "answer": 0,
+    "explanation": "1911-12 में गोविन्द गुरु की गतिविधियों का प्रमुख केंद्र बेडसा (डूंगरपुर) था।"
   },
   {
     "id": 163,
     "paper": 1,
     "year": "2023",
-    "shift": "B",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "पृथ्वी की त्रिज्या?",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "society-religion",
+    "question": "अक्षय तृतीया कब मनाई जाती है?",
     "options": [
-      "5671",
-      "6371",
-      "7371",
-      "4371"
+      "वैशाख कृष्ण तृतीया",
+      "आषाढ़ शुक्ल तृतीया",
+      "वैशाख शुक्ल तृतीया",
+      "ज्येष्ठ शुक्ल तृतीया"
     ],
-    "answer": 1,
-    "explanation": "6,371 किमी।"
+    "answer": 2,
+    "explanation": "अक्षय तृतीया वैशाख मास के शुक्ल पक्ष की तृतीया को मनाई जाती है।"
   },
   {
     "id": 164,
     "paper": 1,
     "year": "2023",
-    "shift": "B",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "प्रकाश की गति?",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "society-religion",
+    "question": "लोक गायिकी की चार बैत शैली राजस्थान के किस नगर में प्रचलित है?",
     "options": [
-      "2×10⁸",
-      "3×10⁸",
-      "4×10⁸",
-      "5×10⁸"
+      "अलवर",
+      "बीकानेर",
+      "टोंक",
+      "जयपुर"
     ],
-    "answer": 1,
-    "explanation": "3×10⁸ मी/से।"
+    "answer": 2,
+    "explanation": "चार बैत शैली टोंक क्षेत्र में प्रचलित लोक गायिकी की शैली है।"
   },
   {
     "id": 165,
     "paper": 1,
     "year": "2023",
-    "shift": "B",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "हृदय धड़कन मापने का यंत्र?",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-history",
+    "question": "कान्हड़ देव और अलाउद्दीन खिलजी के संबंधों की जानकारी देने वाली रचना कौन सी है?",
     "options": [
-      "स्टेथोस्कोप",
-      "ECG",
-      "स्पाइरोमीटर",
-      "थर्मामीटर"
+      "पद्मावत",
+      "एकलिंग महात्म्य",
+      "सुर्जन चरित्र",
+      "वीरमदेव सोनगरा री बात"
     ],
-    "answer": 1,
-    "explanation": "इलेक्ट्रोकार्डियोग्राफ (ECG)।"
+    "answer": 3,
+    "explanation": "वीरमदेव सोनगरा री बात में कान्हड़देव और अलाउद्दीन खिलजी के संबंधों का वर्णन है।"
   },
   {
     "id": 166,
     "paper": 1,
     "year": "2023",
-    "shift": "B",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "नाइट्रोजन का सूत्र?",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-history",
+    "question": "बीसलदेव रासो की रचना किसने की?",
     "options": [
-      "N",
-      "N2",
-      "N3",
-      "N4"
+      "सूर्यमल्ल मिश्रण",
+      "नरपति नाल्ह",
+      "चन्दबरदाई",
+      "महेशदास"
     ],
     "answer": 1,
-    "explanation": "N₂।"
+    "explanation": "बीसलदेव रासो की रचना नरपति नाल्ह ने की।"
   },
   {
     "id": 167,
     "paper": 1,
     "year": "2023",
-    "shift": "B",
-    "topic": "world-india-gk",
-    "subtopic": "india-geo",
-    "question": "सर्वाधिक जनसंख्या वाला राज्य?",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "society-religion",
+    "question": "दादू पंथ की मुख्य गद्दी कहाँ स्थित है?",
     "options": [
-      "महाराष्ट्र",
-      "उत्तर प्रदेश",
-      "बिहार",
-      "पश्चिम बंगाल"
+      "सांभर",
+      "डीडवाना",
+      "नरैना",
+      "गोगामेड़ी"
     ],
-    "answer": 1,
-    "explanation": "उत्तर प्रदेश सर्वाधिक जनसंख्या।"
+    "answer": 2,
+    "explanation": "दादू पंथ की मुख्य गद्दी नरैना (जयपुर) में स्थित है।"
   },
   {
     "id": 168,
     "paper": 1,
     "year": "2023",
-    "shift": "B",
-    "topic": "world-india-gk",
-    "subtopic": "india-geo",
-    "question": "भारत की सबसे लंबी नदी?",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "society-religion",
+    "question": "पिछवाई चित्रकला किस पर चित्रित की जाती है?",
     "options": [
-      "गंगा",
-      "यमुना",
-      "ब्रह्मपुत्र",
-      "गोदावरी"
+      "कपड़ा",
+      "लकड़ी",
+      "चमड़ा",
+      "कागज"
     ],
     "answer": 0,
-    "explanation": "गंगा (2,525 किमी)।"
+    "explanation": "पिछवाई कपड़े पर चित्रित की जाने वाली चित्रकला है जो कृष्ण भक्ति से संबंधित है।"
   },
   {
     "id": 169,
     "paper": 1,
     "year": "2023",
-    "shift": "B",
-    "topic": "world-india-gk",
-    "subtopic": "india-geo",
-    "question": "कर्क रेखा कितने राज्यों से गुजरती?",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "society-religion",
+    "question": "मोर बांधिया, पहरावणा, ताणना - विवाह के ये तीन प्रकार किस जनजाति में प्रचलित हैं?",
     "options": [
-      "6",
-      "7",
-      "8",
-      "9"
+      "गरासिया",
+      "मीणा",
+      "भील",
+      "सहरिया"
     ],
-    "answer": 2,
-    "explanation": "8 भारतीय राज्य।"
+    "answer": 0,
+    "explanation": "गरासिया जनजाति में मोर बांधिया, पहरावणा और ताणना विवाह के प्रकार हैं।"
   },
   {
     "id": 170,
     "paper": 1,
     "year": "2023",
-    "shift": "B",
-    "topic": "world-india-gk",
-    "subtopic": "world-geo",
-    "question": "सबसे बड़ा महासागर?",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "society-religion",
+    "question": "मण्डन द्वारा रचित निम्नलिखित पुस्तकों पर विचार कीजिए-\n(i) राजवल्लभ\n(ii) रूपावतार\n(iii) देवमूर्ति प्रकरण\n(iv) वास्तुसार\nसही विकल्प चुनिए-",
     "options": [
-      "अटलांटिक",
-      "प्रशांत",
-      "हिंद",
-      "आर्कटिक"
+      "ii, iii",
+      "iii, iv",
+      "i, ii, iii, iv",
+      "i, iii, iv"
     ],
-    "answer": 1,
-    "explanation": "प्रशांत सबसे बड़ा और गहरा।"
+    "answer": 2,
+    "explanation": "मण्डन ने राजवल्लभ, रूपावतार, देवमूर्ति प्रकरण और वास्तुसार सभी पुस्तकों की रचना की।"
   },
   {
     "id": 171,
     "paper": 1,
     "year": "2023",
-    "shift": "B",
-    "topic": "world-india-gk",
-    "subtopic": "world-geo",
-    "question": "मृत सागर किनके बीच?",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-polity",
+    "question": "राजस्थान के राज्यपाल के संबंध में निम्नलिखित में से कौन सा कथन असत्य है?",
     "options": [
-      "इज़राइल-जॉर्डन",
-      "भारत-पाक",
-      "अमेरिका-कनाडा",
-      "रूस-चीन"
+      "राज्यपाल का कार्यकाल 5 वर्ष का होता है",
+      "विधानमंडल राज्यपाल को हटा सकता है",
+      "राज्यपाल की नियुक्ति राष्ट्रपति करता है",
+      "एक व्यक्ति एक से अधिक राज्यों का राज्यपाल हो सकता है"
     ],
-    "answer": 0,
-    "explanation": "इज़राइल और जॉर्डन के बीच।"
+    "answer": 1,
+    "explanation": "विधानमंडल राज्यपाल को नहीं हटा सकता। राज्यपाल राष्ट्रपति के प्रसाद पर्यंत पद धारण करता है।"
   },
   {
     "id": 172,
     "paper": 1,
     "year": "2023",
-    "shift": "B",
-    "topic": "world-india-gk",
-    "subtopic": "indian-economy",
-    "question": "प्रथम विकास बैंक?",
+    "shift": "A",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-polity",
+    "question": "एक व्यक्ति को दो या अधिक राज्यों का राज्यपाल बनाने का प्रावधान किस संशोधन द्वारा जोड़ा गया?",
     "options": [
-      "IFCI",
-      "IDBI",
-      "ICICI",
-      "SIDBI"
+      "10वाँ संशोधन",
+      "25वाँ संशोधन",
+      "5वाँ संशोधन",
+      "7वाँ संशोधन"
     ],
-    "answer": 0,
-    "explanation": "IFCI (1948) प्रथम विकास बैंक।"
+    "answer": 3,
+    "explanation": "7वें संविधान संशोधन (1956) द्वारा एक व्यक्ति को दो या अधिक राज्यों का राज्यपाल नियुक्त करने का प्रावधान जोड़ा गया।"
   },
   {
     "id": 173,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "learning-theories",
-    "question": "पावलोव का सिद्धांत आधारित?",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-polity",
+    "question": "राजस्थान मानवाधिकार आयोग के सबसे कम कार्यकाल वाले अध्यक्ष कौन थे?",
     "options": [
-      "पुरस्कार-दंड",
-      "उद्दीपन-अनुक्रिया",
-      "अंतर्दृष्टि",
-      "स्व-अनुभव"
+      "जस्टिस प्रकाश टाटिया",
+      "जस्टिस अमर सिंह गोदारा",
+      "जस्टिस एस. सगीर अहमद",
+      "जस्टिस कांता भटनागर"
     ],
-    "answer": 1,
-    "explanation": "पावलोव ने कुत्तों पर प्रयोग किया।"
+    "answer": 3,
+    "explanation": "जस्टिस कांता भटनागर का सबसे कम कार्यकाल रहा।"
   },
   {
     "id": 174,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "learner-development",
-    "question": "अमूर्त चिंतन कब शुरू?",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-polity",
+    "question": "राजस्थान का सबसे कम अवधि का मुख्यमंत्री कौन था?",
     "options": [
-      "शैशव",
-      "बाल्य",
-      "किशोर",
-      "प्रौढ़"
+      "हीरालाल देवपुरा",
+      "जगन्नाथ पहाड़िया",
+      "टीकाराम पालीवाल",
+      "बरकतुल्ला खान"
     ],
-    "answer": 2,
-    "explanation": "किशोरावस्था (11+ वर्ष) औपचारिक संक्रियात्मक।"
+    "answer": 0,
+    "explanation": "हीरालाल देवपुरा राजस्थान के सबसे कम अवधि (कुछ दिन) के मुख्यमंत्री थे।"
   },
   {
     "id": 175,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "motivation",
-    "question": "मास्लो में सबसे ऊपरी आवश्यकता?",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-polity",
+    "question": "अशोक गहलोत ने प्रथम कार्यकाल हेतु मुख्यमंत्री पद कब संभाला?",
     "options": [
-      "सुरक्षा",
-      "आत्म-सम्मान",
-      "आत्म-साक्षात्कार",
-      "सामाजिक"
+      "3 दिसम्बर 1998",
+      "12 दिसम्बर 1998",
+      "1 दिसम्बर 1998",
+      "2 दिसम्बर 1998"
     ],
     "answer": 2,
-    "explanation": "आत्म-साक्षात्कार उच्चतम आवश्यकता।"
+    "explanation": "अशोक गहलोत ने प्रथम बार 1 दिसम्बर 1998 को मुख्यमंत्री पद की शपथ ली।"
   },
   {
     "id": 176,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "individual-differences",
-    "question": "वैयक्तिक भिन्नता का कारण?",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-polity",
+    "question": "राजस्थान की 15वीं विधानसभा में SC/ST आरक्षित सीटों पर निर्वाचित महिलाओं की संख्या क्या है?",
     "options": [
-      "आनुवंशिकता",
-      "वातावरण",
-      "दोनों",
-      "शिक्षा"
+      "6 SC + 5 ST",
+      "8 SC + 3 ST",
+      "7 SC + 4 ST",
+      "9 SC + 2 ST"
     ],
-    "answer": 2,
-    "explanation": "प्रकृति+पोषण दोनों।"
+    "answer": 1,
+    "explanation": "15वीं विधानसभा में 8 SC और 3 ST आरक्षित सीटों पर महिलाएं निर्वाचित हुईं।"
   },
   {
     "id": 177,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "learning-theories",
-    "question": "अंतर्दृष्टि सिद्धांत किसने दिया?",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-polity",
+    "question": "राजस्थान पंचायती राज अधिनियम में निम्नलिखित में से किस वर्ष संशोधन नहीं हुआ?",
     "options": [
-      "स्किनर",
-      "कोहलर",
-      "थार्नडाइक",
-      "पावलोव"
+      "2002",
+      "2004",
+      "1999",
+      "2000"
     ],
-    "answer": 1,
-    "explanation": "कोहलर ने चिम्पैंजी पर प्रयोग किया।"
+    "answer": 0,
+    "explanation": "राजस्थान पंचायती राज अधिनियम में 1999, 2000 और 2004 में संशोधन हुए, 2002 में नहीं।"
   },
   {
     "id": 178,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "intelligence-creativity",
-    "question": "बहु-कारक सिद्धांत किसने दिया?",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-current",
+    "question": "UNFPA ने राजस्थान के किस विश्वविद्यालय के साथ समझौता ज्ञापन पर हस्ताक्षर किया?",
     "options": [
-      "बिने",
-      "स्पीयरमैन",
-      "थार्नडाइक",
-      "थर्स्टन"
+      "जयनारायण व्यास विश्वविद्यालय",
+      "मोहनलाल सुखाड़िया विश्वविद्यालय",
+      "हरिदेव जोशी पत्रकारिता विश्वविद्यालय",
+      "राजस्थान विश्वविद्यालय"
     ],
-    "answer": 3,
-    "explanation": "थर्स्टन: 7 प्राथमिक मानसिक कारक।"
+    "answer": 2,
+    "explanation": "UNFPA ने हरिदेव जोशी पत्रकारिता विश्वविद्यालय के साथ MoU किया।"
   },
   {
     "id": 179,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "meaning-scope",
-    "question": "शै.मनो. शिक्षक की कैसे सहायता करता है?",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-polity",
+    "question": "RPSC अध्यक्षों को कालानुक्रम में व्यवस्थित कीजिए-\nA. डॉ. बी.एल. रावत\nB. डॉ. दीनदयाल\nC. राम सिंह चौहान\nD. डॉ. एस.एस. टाक",
     "options": [
-      "अनुशासन",
-      "व्यक्तिगत समस्या",
-      "शिक्षण विधियाँ",
-      "उपरोक्त सभी"
+      "C, A, D, B",
+      "D, B, A, C",
+      "B, D, C, A",
+      "A, C, B, D"
     ],
     "answer": 3,
-    "explanation": "सभी पहलुओं में सहायक।"
+    "explanation": "सही कालानुक्रम: A (बी.एल. रावत), C (राम सिंह चौहान), B (दीनदयाल), D (एस.एस. टाक)।"
   },
   {
     "id": 180,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "personality",
-    "question": "फ्रायड के अनुसार तीन घटक?",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-polity",
+    "question": "राजस्थान के सबसे छोटे कार्यकाल वाले मुख्य सचिव कौन थे?",
     "options": [
-      "इड-इगो-सुपरइगो",
-      "चेतन-अचेतन",
-      "बहि-अंतर्मुखता",
-      "इच्छा-क्रोध-मोह"
+      "निरंजन कुमार आर्य",
+      "सी.के. मैथ्यू",
+      "राजीव स्वरूप",
+      "एन.सी. गोयल"
     ],
-    "answer": 0,
-    "explanation": "इड जन्मजात, इगो 2-3 वर्ष, सुपरइगो 5-6 वर्ष।"
+    "answer": 2,
+    "explanation": "राजीव स्वरूप राजस्थान के सबसे छोटे कार्यकाल वाले मुख्य सचिव थे।"
   },
   {
     "id": 181,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "learner-development",
-    "question": "पियाजे की पहली अवस्था?",
+    "topic": "world-india-gk",
+    "subtopic": "indian-constitution",
+    "question": "पंचायती राज अधिनियम 1994 की धारा 14 के अनुसार 4 लाख जनसंख्या वाली जिला परिषद में कितने सदस्य होंगे?",
     "options": [
-      "पूर्व-संक्रियात्मक",
-      "मूर्त संक्रियात्मक",
-      "संवेदी-गामक",
-      "औपचारिक"
+      "25",
+      "17",
+      "22",
+      "13"
     ],
-    "answer": 2,
-    "explanation": "संवेदी-गामक (0-2 वर्ष)।"
+    "answer": 1,
+    "explanation": "पंचायती राज अधिनियम 1994 की धारा 14 के अनुसार 4 लाख जनसंख्या पर 17 सदस्य होते हैं।"
   },
   {
     "id": 182,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "learning-theories",
-    "question": "स्किनर का सिद्धांत?",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-current",
+    "question": "धार्मिक पर्यटन हेतु ₹18.48 करोड़ की राशि राजस्थान के किन जिलों में स्वीकृत की गई?",
     "options": [
-      "शास्त्रीय",
-      "क्रियाप्रसूत अनुबंधन",
-      "अंतर्दृष्टि",
-      "सामाजिक"
+      "झालावाड़, राजसमंद, उदयपुर",
+      "सिरोही, भीलवाड़ा, डूंगरपुर",
+      "नागौर, जैसलमेर, अलवर",
+      "नागौर, अजमेर, बीकानेर"
     ],
-    "answer": 1,
-    "explanation": "क्रियाप्रसूत अनुबंधन।"
+    "answer": 2,
+    "explanation": "धार्मिक पर्यटन हेतु नागौर, जैसलमेर और अलवर में ₹18.48 करोड़ स्वीकृत किए गए।"
   },
   {
     "id": 183,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "learner-development",
-    "question": "अहंकारिता किस अवस्था में?",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-current",
+    "question": "प्रधानमंत्री मातृ वंदना योजना की गोद भराई पहल राजस्थान के किस जिले में शुरू की गई?",
     "options": [
-      "संवेदी-गामक",
-      "पूर्व-संक्रियात्मक",
-      "मूर्त संक्रियात्मक",
-      "औपचारिक"
+      "जोधपुर",
+      "अजमेर",
+      "जयपुर",
+      "दौसा"
     ],
-    "answer": 1,
-    "explanation": "पूर्व-संक्रियात्मक (2-7 वर्ष)।"
+    "answer": 3,
+    "explanation": "प्रधानमंत्री मातृ वंदना योजना की गोद भराई पहल दौसा जिले से शुरू की गई।"
   },
   {
     "id": 184,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "learner-development",
-    "question": "पियाजे की अंतिम अवस्था?",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-current",
+    "question": "राजस्थान सरकार द्वारा सरकारी स्कूलों में करियर चयन हेतु कौन सा कार्यक्रम शुरू किया गया?",
     "options": [
-      "पूर्व-संक्रियात्मक",
-      "मूर्त",
-      "औपचारिक संक्रियात्मक",
-      "संवेदी-गामक"
+      "आपका अगला कदम",
+      "स्मार्ट शाला",
+      "डायल फ्यूचर",
+      "मुस्कान कार्यक्रम"
     ],
     "answer": 2,
-    "explanation": "औपचारिक संक्रियात्मक (11+ वर्ष)।"
+    "explanation": "डायल फ्यूचर कार्यक्रम सरकारी स्कूलों में करियर चयन हेतु शुरू किया गया।"
   },
   {
     "id": 185,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "learning-theories",
-    "question": "बंडुरा किस पर बल देता है?",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-current",
+    "question": "जल जीवन मिशन कनेक्शन में राजस्थान का देश में कौन सा स्थान है (2023)?",
     "options": [
-      "प्रेक्षण",
-      "पुनर्बलन",
-      "अंतर्दृष्टि",
-      "अनुबंधन"
+      "14वाँ",
+      "16वाँ",
+      "10वाँ",
+      "12वाँ"
     ],
-    "answer": 0,
-    "explanation": "प्रेक्षणात्मक अधिगम।"
+    "answer": 3,
+    "explanation": "जल जीवन मिशन में राजस्थान का 12वाँ स्थान है।"
   },
   {
     "id": 186,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "learner-development",
-    "question": "वाइगोत्स्की के अनुसार महत्वपूर्ण?",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-current",
+    "question": "अनुया प्रसाद ने 10 मीटर एयर पिस्टल में कौन सा पदक जीता?",
     "options": [
-      "स्व-अनुभव",
-      "सामाजिक अंतःक्रिया",
-      "अनुबंधन",
-      "पुनर्बलन"
+      "कांस्य",
+      "कोई पदक नहीं",
+      "स्वर्ण",
+      "रजत"
     ],
-    "answer": 1,
-    "explanation": "सामाजिक अंतःक्रिया और स्कैफोल्डिंग।"
+    "answer": 2,
+    "explanation": "अनुया प्रसाद ने 10 मीटर एयर पिस्टल में स्वर्ण पदक जीता।"
   },
   {
     "id": 187,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "intelligence-creativity",
-    "question": "IQ का सूत्र?",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-current",
+    "question": "प्रणय चोरडिया और युक्ति हर्ष ने 66वें नेशनल स्कूल गेम्स में किस खेल में स्वर्ण पदक जीता?",
     "options": [
-      "MA/CA×100",
-      "CA/MA×100",
-      "MA+CA/100",
-      "MA-CA×100"
+      "निशानेबाजी",
+      "तैराकी",
+      "बैडमिंटन",
+      "शतरंज"
     ],
-    "answer": 0,
-    "explanation": "बुद्धिलब्धि = (मानसिक आयु/कालानुक्रमिक आयु)×100।"
+    "answer": 3,
+    "explanation": "प्रणय चोरडिया और युक्ति हर्ष ने शतरंज में स्वर्ण पदक जीता।"
   },
   {
     "id": 188,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "meaning-scope",
-    "question": "थार्नडाइक कहलाते हैं?",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-current",
+    "question": "असंगठित क्षेत्र के श्रमिकों हेतु राजस्थान सरकार द्वारा शुरू की गई आर्थिक राहत योजना कौन सी है?",
     "options": [
-      "शै.मनो. के जनक",
-      "संज्ञानात्मक जनक",
-      "व्यवहारवादी जनक",
-      "मनोविश्लेषण जनक"
+      "चिरंजीवी श्रमिक संबल योजना",
+      "चिरंजीवी बीमा योजना",
+      "मुख्यमंत्री चिरंजीवी दुर्घटना बीमा",
+      "मुख्यमंत्री निःशुल्क निरोगी योजना"
     ],
     "answer": 0,
-    "explanation": "ई.एल. थार्नडाइक शै.मनो. के जनक।"
+    "explanation": "चिरंजीवी श्रमिक संबल योजना असंगठित क्षेत्र के श्रमिकों के लिए आर्थिक राहत योजना है।"
   },
   {
     "id": 189,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "personality",
-    "question": "प्रक्षेपी परीक्षण का उदाहरण?",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-current",
+    "question": "राजीव गाँधी ग्रामीण और शहरी ओलंपिक 2023 में कितने-कितने खेल शामिल किए गए?",
     "options": [
-      "रोर्शा",
-      "16PF",
-      "MMPI",
-      "EPQ"
+      "6-6",
+      "7-7",
+      "4-5",
+      "5-7"
     ],
-    "answer": 0,
-    "explanation": "रोर्शा स्याही धब्बा परीक्षण (हरमन रोर्शा)।"
+    "answer": 1,
+    "explanation": "राजीव गाँधी ओलंपिक 2023 में ग्रामीण और शहरी दोनों में 7-7 खेल शामिल किए गए।"
   },
   {
     "id": 190,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "learner-development",
-    "question": "कोहलबर्ग के कितने स्तर?",
+    "topic": "rajasthan-gk",
+    "subtopic": "raj-current",
+    "question": "राजस्थान क्रीड़ा परिषद का 63वाँ प्रशिक्षण शिविर कहाँ आयोजित हुआ?",
     "options": [
-      "2",
-      "3",
-      "4",
-      "6"
+      "बीकानेर",
+      "सीकर",
+      "माउण्ट आबू",
+      "जोधपुर"
     ],
-    "answer": 1,
-    "explanation": "3 स्तर: पूर्व-पारंपरिक, पारंपरिक, उत्तर-पारंपरिक।"
+    "answer": 2,
+    "explanation": "राजस्थान क्रीड़ा परिषद का 63वाँ प्रशिक्षण शिविर माउण्ट आबू में आयोजित हुआ।"
   },
   {
     "id": 191,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "राज्य में नगर निगमों की संख्या?",
+    "topic": "world-india-gk",
+    "subtopic": "world-geo",
+    "question": "2023 में न्यूनतम जनसंख्या घनत्व वाला देश कौन सा है?",
     "options": [
-      "6",
-      "7",
-      "8",
-      "9"
+      "यूक्रेन",
+      "सियरा लियोन",
+      "ऑस्ट्रेलिया",
+      "रूस"
     ],
     "answer": 2,
-    "explanation": "राजस्थान में 8 नगर निगम।"
+    "explanation": "ऑस्ट्रेलिया का जनसंख्या घनत्व लगभग 3 व्यक्ति प्रति वर्ग किमी है जो सबसे कम है।"
   },
   {
     "id": 192,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "उच्च न्यायालय कहाँ?",
+    "topic": "world-india-gk",
+    "subtopic": "current-affairs",
+    "question": "विश्व युवा रिपोर्ट 2005 के अनुसार वैश्वीकरण का निम्नलिखित में से कौन सा प्रभाव नहीं है?",
     "options": [
-      "जयपुर",
-      "जोधपुर",
-      "अजमेर",
-      "कोटा"
+      "वैश्विक नागरिकता",
+      "वस्तुओं की सर्वउपलब्धता",
+      "प्रवास",
+      "युवा संस्कृति"
     ],
     "answer": 1,
-    "explanation": "राजस्थान उच्च न्यायालय जोधपुर में।"
+    "explanation": "विश्व युवा रिपोर्ट 2005 के अनुसार वैश्वीकरण के प्रभावों में वस्तुओं की सर्वउपलब्धता शामिल नहीं है।"
   },
   {
     "id": 193,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "सबसे बड़ा नगर?",
+    "topic": "world-india-gk",
+    "subtopic": "world-geo",
+    "question": "महासागर-सीमावर्ती सागर का सही युग्म चुनिए-\nA. प्रशांत महासागर - कोरल सागर\nB. हिंद महासागर - बंडा सागर\nC. आर्कटिक महासागर - कारा सागर\nD. अटलांटिक महासागर - बेरिंग सागर",
     "options": [
-      "जयपुर",
-      "जोधपुर",
-      "कोटा",
-      "बीकानेर"
+      "A, C",
+      "C, D",
+      "A, C, D",
+      "B, C"
     ],
     "answer": 0,
-    "explanation": "जयपुर सबसे बड़ा नगर।"
+    "explanation": "प्रशांत-कोरल सागर और आर्कटिक-कारा सागर सही युग्म हैं। बेरिंग सागर प्रशांत में है।"
   },
   {
     "id": 194,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "लोकसभा सीटें?",
+    "topic": "world-india-gk",
+    "subtopic": "world-geo",
+    "question": "दबाव पेटियों के मौसमी स्थानान्तरण से पवनें किस ओर विक्षेपित होती हैं?",
     "options": [
-      "20",
-      "25",
-      "30",
-      "35"
+      "कर्क रेखा की ओर",
+      "मकर रेखा की ओर",
+      "गर्मी में ध्रुवों और सर्दी में विषुवत की ओर",
+      "गर्मी में विषुवत और सर्दी में ध्रुवों की ओर"
     ],
-    "answer": 1,
-    "explanation": "25 लोकसभा सीटें।"
+    "answer": 2,
+    "explanation": "दबाव पेटियाँ गर्मी में ध्रुवों की ओर और सर्दी में विषुवत की ओर खिसकती हैं।"
   },
   {
     "id": 195,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "राज्यसभा सीटें?",
+    "topic": "world-india-gk",
+    "subtopic": "world-geo",
+    "question": "पृथ्वी दिवस कब मनाया जाता है?",
     "options": [
-      "5",
-      "10",
-      "15",
-      "20"
+      "22 मई",
+      "2 फरवरी",
+      "22 अप्रैल",
+      "5 अप्रैल"
     ],
-    "answer": 1,
-    "explanation": "10 राज्यसभा सीटें।"
+    "answer": 2,
+    "explanation": "पृथ्वी दिवस प्रतिवर्ष 22 अप्रैल को मनाया जाता है।"
   },
   {
     "id": 196,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "सबसे बड़ा व्यापारिक मेला?",
+    "topic": "world-india-gk",
+    "subtopic": "world-geo",
+    "question": "निम्नलिखित में से गलत युग्म (क्षेत्र-ऊर्जा संसाधन) चुनिए-",
     "options": [
-      "पुष्कर",
-      "सुरजकुंड",
-      "बेनेश्वर",
-      "कोलायत"
+      "आलियाबैट - तेल",
+      "मोरान हुगरीजन - कोयला",
+      "नाहरकटिया - गैस",
+      "झरिया - कोयला"
     ],
-    "answer": 0,
-    "explanation": "पुष्कर मेला सबसे बड़ा।"
+    "answer": 1,
+    "explanation": "मोरान हुगरीजन तेल क्षेत्र (असम) है, कोयला नहीं।"
   },
   {
     "id": 197,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "सर्वाधिक साक्षरता वाला जिला?",
+    "topic": "world-india-gk",
+    "subtopic": "india-geo",
+    "question": "मानसूनी वर्षा में क्षेत्रीय भिन्नता किसमें सहायक है?",
     "options": [
-      "जयपुर",
-      "कोटा",
-      "गंगानगर",
-      "अजमेर"
+      "भूमि क्षमता में",
+      "सूखा शमन में",
+      "विभिन्न फसलें उगाने में",
+      "तापमान बढ़ाने में"
     ],
-    "answer": 1,
-    "explanation": "कोटा (76.5%) सर्वाधिक साक्षरता।"
+    "answer": 2,
+    "explanation": "मानसूनी वर्षा की क्षेत्रीय भिन्नता विभिन्न प्रकार की फसलें उगाने में सहायक है।"
   },
   {
     "id": 198,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "महिला सशक्तिकरण योजना?",
+    "topic": "world-india-gk",
+    "subtopic": "india-geo",
+    "question": "कोंकण, कनारा और मलाबार किसके उप-प्रदेश हैं?",
     "options": [
-      "उड़ान",
-      "मुख्यमंत्री कन्या दान",
-      "राजश्री",
-      "इंदिरा गांधी"
+      "गुजरात तटीय मैदान",
+      "पश्चिमी तटीय मैदान",
+      "पश्चिमी घाट",
+      "पूर्वी तटीय मैदान"
     ],
-    "answer": 2,
-    "explanation": "राजश्री योजना बालिकाओं के लिए।"
+    "answer": 1,
+    "explanation": "कोंकण, कनारा और मलाबार पश्चिमी तटीय मैदान के उप-प्रदेश हैं।"
   },
   {
     "id": 199,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "लोकायुक्त का कार्यकाल?",
+    "topic": "world-india-gk",
+    "subtopic": "india-geo",
+    "question": "नर्मदा और तापी नदियों के मध्य कौन सी पर्वत श्रेणी स्थित है?",
     "options": [
-      "3",
-      "5",
-      "6",
-      "8"
+      "विन्ध्यन श्रेणी",
+      "सतपुड़ा श्रेणी",
+      "रायलसीमा",
+      "सह्याद्री श्रेणी"
     ],
-    "answer": 2,
-    "explanation": "राजस्थान में लोकायुक्त 6 वर्ष।"
+    "answer": 1,
+    "explanation": "सतपुड़ा श्रेणी नर्मदा और तापी नदियों के मध्य स्थित है।"
   },
   {
     "id": 200,
     "paper": 1,
     "year": "2023",
     "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "राज्य का सबसे बड़ा उद्योग?",
-    "options": [
-      "सीमेंट",
-      "वस्त्र",
-      "पर्यटन",
-      "खनन"
-    ],
-    "answer": 2,
-    "explanation": "पर्यटन राज्य का सबसे बड़ा उद्योग।"
-  },
-  {
-    "id": 201,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान में राष्ट्रीय राजमार्गों की कुल लंबाई?",
-    "options": [
-      "5000",
-      "8000",
-      "10000",
-      "12000"
-    ],
-    "answer": 2,
-    "explanation": "~10,000 किमी राष्ट्रीय राजमार्ग।"
-  },
-  {
-    "id": 202,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान का सर्वाधिक वर्षा वाला जिला?",
-    "options": [
-      "सिरोही",
-      "उदयपुर",
-      "बाँसवाड़ा",
-      "झालावाड़"
-    ],
-    "answer": 0,
-    "explanation": "सिरोही में माउंट आबू के कारण।"
-  },
-  {
-    "id": 203,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "राजस्थान में प्रथम विधान सभा चुनाव कब?",
-    "options": [
-      "1951",
-      "1952",
-      "1957",
-      "1962"
-    ],
-    "answer": 1,
-    "explanation": "1952 में प्रथम विधानसभा चुनाव।"
-  },
-  {
-    "id": 204,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "संयुक्त राजस्थान का उद्घाटन कब?",
-    "options": [
-      "1947",
-      "1948",
-      "1949",
-      "1950"
-    ],
-    "answer": 2,
-    "explanation": "18 अप्रैल 1949 को संयुक्त राजस्थान।"
-  },
-  {
-    "id": 205,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान की प्रथम नहर?",
-    "options": [
-      "गंग नहर",
-      "इंदिरा गांधी नहर",
-      "चम्बल नहर",
-      "बीकानेर नहर"
-    ],
-    "answer": 0,
-    "explanation": "गंग नहर (1927) प्रथम नहर।"
-  },
-  {
-    "id": 206,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान का क्षेत्रफल?",
-    "options": [
-      "3,42,239",
-      "3,50,000",
-      "3,25,000",
-      "3,00,000"
-    ],
-    "answer": 0,
-    "explanation": "3,42,239 वर्ग किमी।"
-  },
-  {
-    "id": 207,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "राजस्थान दिवस कब मनाया?",
-    "options": [
-      "1 नवंबर",
-      "18 अप्रैल",
-      "30 मार्च",
-      "15 अगस्त"
-    ],
-    "answer": 2,
-    "explanation": "30 मार्च 1949 को राजस्थान का एकीकरण।"
-  },
-  {
-    "id": 208,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "मत्स्य संघ का गठन कब?",
-    "options": [
-      "1947",
-      "1948",
-      "1949",
-      "1950"
-    ],
-    "answer": 1,
-    "explanation": "1948 में मत्स्य संघ बना।"
-  },
-  {
-    "id": 209,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "जोधपुर के संस्थापक?",
-    "options": [
-      "राव जोधा",
-      "राव चंद्रसेन",
-      "राजा मानसिंह",
-      "राव मालदेव"
-    ],
-    "answer": 0,
-    "explanation": "राव जोधा (1459) ने जोधपुर स्थापित।"
-  },
-  {
-    "id": 210,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान में सर्वाधिक क्षेत्रफल पर कौन सी मिट्टी?",
-    "options": [
-      "रेतीली",
-      "लाल",
-      "काली",
-      "जलोढ़"
-    ],
-    "answer": 0,
-    "explanation": "रेतीली मिट्टी सर्वाधिक क्षेत्र में।"
-  },
-  {
-    "id": 211,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान की प्रमुख फसल?",
-    "options": [
-      "गेहूँ",
-      "बाजरा",
-      "चावल",
-      "दालें"
-    ],
-    "answer": 1,
-    "explanation": "बाजरा प्रमुख फसल।"
-  },
-  {
-    "id": 212,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान का सबसे बड़ा बाँध?",
-    "options": [
-      "भाखड़ा",
-      "राणा प्रताप सागर",
-      "जवाहर सागर",
-      "मही बजाज सागर"
-    ],
-    "answer": 1,
-    "explanation": "राणा प्रताप सागर (चम्बल) सबसे बड़ा।"
-  },
-  {
-    "id": 213,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान में ताँबा उत्पादन में अग्रणी जिला?",
-    "options": [
-      "झुंझुनू",
-      "अलवर",
-      "भीलवाड़ा",
-      "अजमेर"
-    ],
-    "answer": 0,
-    "explanation": "झुंझुनू में खेतड़ी ताँबा क्षेत्र।"
-  },
-  {
-    "id": 214,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "राजस्थान का सर्वाधिक प्राचीन नगर?",
-    "options": [
-      "जोधपुर",
-      "चित्तौड़गढ़",
-      "आहड़",
-      "बीकानेर"
-    ],
-    "answer": 2,
-    "explanation": "आहड़ (उदयपुर) सर्वाधिक प्राचीन।"
-  },
-  {
-    "id": 215,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "वीर दुर्गादास राठौड़ किसके संरक्षक थे?",
-    "options": [
-      "अजीत सिंह",
-      "मान सिंह",
-      "राज सिंह",
-      "जसवंत सिंह"
-    ],
-    "answer": 0,
-    "explanation": "दुर्गादास ने अजीत सिंह की रक्षा की।"
-  },
-  {
-    "id": 216,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान की एकमात्र पेयजल झील?",
-    "options": [
-      "आनासागर",
-      "फॉय सागर",
-      "पुष्कर",
-      "राजसमंद"
-    ],
-    "answer": 0,
-    "explanation": "आनासागर झील (अजमेर) पेयजल झील।"
-  },
-  {
-    "id": 217,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "society-religion",
-    "question": "लोक देवता हड़बूजी का मेला कहाँ?",
-    "options": [
-      "बीकानेर",
-      "जोधपुर",
-      "नागौर",
-      "पाली"
-    ],
-    "answer": 0,
-    "explanation": "बीकानेर में हड़बूजी का मेला।"
-  },
-  {
-    "id": 218,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "society-religion",
-    "question": "राजस्थान का प्रसिद्ध बेणेश्वर मेला कहाँ?",
-    "options": [
-      "डूंगरपुर",
-      "बाँसवाड़ा",
-      "चित्तौड़गढ़",
-      "प्रतापगढ़"
-    ],
-    "answer": 1,
-    "explanation": "बाँसवाड़ा में बेणेश्वर मेला।"
-  },
-  {
-    "id": 219,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-polity",
-    "question": "राजस्थान के प्रथम राज्यपाल?",
-    "options": [
-      "गुरुमुख निहाल सिंह",
-      "संपूर्णानंद",
-      "सरदार सिंह",
-      "भगवान सहाय"
-    ],
-    "answer": 0,
-    "explanation": "गुरुमुख निहाल सिंह प्रथम राज्यपाल।"
-  },
-  {
-    "id": 220,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-polity",
-    "question": "राजस्थान विधानसभा का प्रथम अध्यक्ष?",
-    "options": [
-      "हीरालाल शास्त्री",
-      "जय नारायण व्यास",
-      "रामकिशोर",
-      "लाल सिंह"
-    ],
-    "answer": 1,
-    "explanation": "जय नारायण व्यास प्रथम अध्यक्ष।"
-  },
-  {
-    "id": 221,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान में कितने संभाग?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
-    ],
-    "answer": 2,
-    "explanation": "राजस्थान में 7 संभाग।"
-  },
-  {
-    "id": 222,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान की प्रमुख सहायक नदी?",
-    "options": [
-      "बेड़च",
-      "बनास",
-      "काली सिंध",
-      "पार्वती"
-    ],
-    "answer": 1,
-    "explanation": "बनास चम्बल की प्रमुख सहायक।"
-  },
-  {
-    "id": 223,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान की अरावली श्रेणी दुनिया की सबसे पुरानी?",
-    "options": [
-      "वलित पर्वत",
-      "ब्लॉक पर्वत",
-      "अवशिष्ट पर्वत",
-      "ज्वालामुखी"
-    ],
-    "answer": 2,
-    "explanation": "अरावली अवशिष्ट पर्वत श्रेणी।"
-  },
-  {
-    "id": 224,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान में सर्वाधिक गर्मी वाला स्थान?",
-    "options": [
-      "चूरू",
-      "फलौदी",
-      "जैसलमेर",
-      "बाड़मेर"
-    ],
-    "answer": 1,
-    "explanation": "फलौदी (जोधपुर) सर्वाधिक गर्म।"
-  },
-  {
-    "id": 225,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान की कौन सी नदी बंगाल की खाड़ी में गिरती है?",
-    "options": [
-      "चम्बल",
-      "माही",
-      "लूनी",
-      "बनास"
-    ],
-    "answer": 1,
-    "explanation": "माही नदी खम्भात की खाड़ी में गिरती है।"
-  },
-  {
-    "id": 226,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "चित्तौड़गढ़ के कीर्ति स्तम्भ का निर्माता?",
-    "options": [
-      "राणा कुंभा",
-      "जीजा व्यापारी",
-      "महाराणा प्रताप",
-      "राणा सांगा"
-    ],
-    "answer": 1,
-    "explanation": "जैन व्यापारी जीजा ने बनवाया।"
-  },
-  {
-    "id": 227,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "society-religion",
-    "question": "पुष्कर मेला किस माह में लगता है?",
-    "options": [
-      "अक्टूबर",
-      "नवंबर",
-      "कार्तिक",
-      "मार्च"
-    ],
-    "answer": 2,
-    "explanation": "कार्तिक मास में पुष्कर मेला।"
-  },
-  {
-    "id": 228,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "राजस्थान में सती प्रथा पर प्रतिबंध कब?",
-    "options": [
-      "1829",
-      "1845",
-      "1850",
-      "1861"
-    ],
-    "answer": 0,
-    "explanation": "1829 में बंगाल से शुरू, राजस्थान में बाद में।"
-  },
-  {
-    "id": 229,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "society-religion",
-    "question": "बीकानेर का शिव मंदिर?",
-    "options": [
-      "शिव मंदिर",
-      "लक्ष्मीनारायण",
-      "करणी माता",
-      "देशनोक"
-    ],
-    "answer": 2,
-    "explanation": "करणी माता मंदिर देशनोक।"
-  },
-  {
-    "id": 230,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "society-religion",
-    "question": "खेजड़ली का आंदोलन किससे संबंधित?",
-    "options": [
-      "वन संरक्षण",
-      "जल संरक्षण",
-      "भूमि अधिकार",
-      "शिक्षा"
-    ],
-    "answer": 0,
-    "explanation": "खेजड़ली (1730) वन संरक्षण से संबंधित।"
-  },
-  {
-    "id": 231,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "बादल महल कहाँ स्थित है?",
-    "options": [
-      "जयपुर",
-      "जोधपुर",
-      "बीकानेर",
-      "उदयपुर"
-    ],
-    "answer": 2,
-    "explanation": "बादल महल बीकानेर में है।"
-  },
-  {
-    "id": 232,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "राजस्थान में ब्रिटिश गैरीसन कहाँ था?",
-    "options": [
-      "अजमेर",
-      "जयपुर",
-      "जोधपुर",
-      "कोटा"
-    ],
-    "answer": 0,
-    "explanation": "अजमेर मेरवाड़ा ब्रिटिश प्रांत था।"
-  },
-  {
-    "id": 233,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "freedom-struggle",
-    "question": "राजस्थान में 1942 के आंदोलन के नेता?",
-    "options": [
-      "अर्जुन लाल सेठी",
-      "जय नारायण व्यास",
-      "हीरालाल शास्त्री",
-      "मास्टर आदित्य"
-    ],
-    "answer": 0,
-    "explanation": "अर्जुन लाल सेठी ने 1942 का नेतृत्व।"
-  },
-  {
-    "id": 234,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "पृथ्वीराज चौहान से संबंधित स्थान?",
-    "options": [
-      "अजमेर",
-      "जयपुर",
-      "जोधपुर",
-      "सीकर"
-    ],
-    "answer": 0,
-    "explanation": "अजमेर पृथ्वीराज चौहान की राजधानी।"
-  },
-  {
-    "id": 235,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "society-religion",
-    "question": "घूमर नृत्य की उत्पत्ति?",
-    "options": [
-      "मारवाड़",
-      "मेवाड़",
-      "शेखावाटी",
-      "बागड़"
-    ],
-    "answer": 0,
-    "explanation": "घूमर मारवाड़ का प्रसिद्ध नृत्य।"
-  },
-  {
-    "id": 236,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "society-religion",
-    "question": "बिजौलिया के चित्रकार?",
-    "options": [
-      "साहिबदीन",
-      "निहाल चंद",
-      "राम गोपाल",
-      "किशनगढ़"
-    ],
-    "answer": 0,
-    "explanation": "साहिबदीन बिजौलिया शैली के प्रसिद्ध।"
-  },
-  {
-    "id": 237,
-    "paper": 1,
-    "year": "2024",
-    "shift": "D",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान का क्षेत्रफल की दृष्टि से भारत में स्थान?",
-    "options": [
-      "प्रथम",
-      "द्वितीय",
-      "तृतीय",
-      "चतुर्थ"
-    ],
-    "answer": 0,
-    "explanation": "राजस्थान सबसे बड़ा राज्य।"
-  },
-  {
-    "id": 238,
-    "paper": 1,
-    "year": "2024",
-    "shift": "D",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "अरावली की सबसे ऊँची चोटी?",
-    "options": [
-      "गुरु शिखर",
-      "सेर",
-      "दिलवाड़ा",
-      "जीवा"
-    ],
-    "answer": 0,
-    "explanation": "गुरु शिखर (1,722 मी)।"
-  },
-  {
-    "id": 239,
-    "paper": 1,
-    "year": "2024",
-    "shift": "D",
-    "topic": "rajasthan-gk",
-    "subtopic": "society-religion",
-    "question": "बीकानेर का ऊँट मेला?",
-    "options": [
-      "जनवरी",
-      "फरवरी",
-      "मार्च",
-      "अप्रैल"
-    ],
-    "answer": 0,
-    "explanation": "जनवरी में बीकानेर ऊँट मेला।"
-  },
-  {
-    "id": 240,
-    "paper": 1,
-    "year": "2024",
-    "shift": "D",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान में कुल वन क्षेत्र?",
-    "options": [
-      "5%",
-      "10%",
-      "15%",
-      "20%"
-    ],
-    "answer": 1,
-    "explanation": "~10% वन क्षेत्र।"
-  },
-  {
-    "id": 241,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "मानव शरीर का सबसे बड़ा अंग?",
-    "options": [
-      "यकृत",
-      "त्वचा",
-      "फेफड़े",
-      "हृदय"
-    ],
-    "answer": 1,
-    "explanation": "त्वचा सबसे बड़ा अंग।"
-  },
-  {
-    "id": 242,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "रक्त का pH?",
-    "options": [
-      "5.4",
-      "6.4",
-      "7.4",
-      "8.4"
-    ],
-    "answer": 2,
-    "explanation": "~7.35-7.45।"
-  },
-  {
-    "id": 243,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "सबसे बड़ा ग्रह?",
-    "options": [
-      "शनि",
-      "बृहस्पति",
-      "नेपच्यून",
-      "यूरेनस"
-    ],
-    "answer": 1,
-    "explanation": "बृहस्पति सबसे बड़ा ग्रह।"
-  },
-  {
-    "id": 244,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "एसिड-बेस मिश्रण से क्या बनता है?",
-    "options": [
-      "लवण-जल",
-      "गैस",
-      "धातु",
-      "कार्बन"
-    ],
-    "answer": 0,
-    "explanation": "उदासीनीकरण में लवण और जल बनते हैं।"
-  },
-  {
-    "id": 245,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "DNA का पूरा नाम?",
-    "options": [
-      "डीऑक्सीराइबोन्यूक्लिक एसिड",
-      "डाइन्यूक्लिक",
-      "डीऑक्सीराइबोन्यूक्लिओटाइड",
-      "डीऑक्सी न्यूक्लिक"
-    ],
-    "answer": 0,
-    "explanation": "DNA = डीऑक्सीराइबोन्यूक्लिक एसिड।"
-  },
-  {
-    "id": 246,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "ध्वनि की गति सबसे अधिक कहाँ?",
-    "options": [
-      "हवा",
-      "जल",
-      "ठोस",
-      "निर्वात"
-    ],
-    "answer": 2,
-    "explanation": "ठोस में ~5000 मी/से।"
-  },
-  {
-    "id": 247,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "विटामिन C का रासायनिक नाम?",
-    "options": [
-      "एस्कॉर्बिक एसिड",
-      "साइट्रिक",
-      "एसिटिक",
-      "टार्टरिक"
-    ],
-    "answer": 0,
-    "explanation": "विटामिन C = एस्कॉर्बिक एसिड।"
-  },
-  {
-    "id": 248,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "न्यूटन का प्रथम नियम?",
-    "options": [
-      "जड़त्व का",
-      "त्वरण का",
-      "क्रिया-प्रतिक्रिया",
-      "गुरुत्वाकर्षण"
-    ],
-    "answer": 0,
-    "explanation": "जड़त्व का नियम।"
-  },
-  {
-    "id": 249,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "मधुमेह में कौन सा हार्मोन प्रभावित?",
-    "options": [
-      "थायरॉक्सिन",
-      "इंसुलिन",
-      "एड्रेनालिन",
-      "पिट्यूटरी"
-    ],
-    "answer": 1,
-    "explanation": "इंसुलिन (अग्न्याशय) प्रभावित।"
-  },
-  {
-    "id": 250,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
     "topic": "world-india-gk",
     "subtopic": "india-geo",
-    "question": "सबसे लंबी सुरंग?",
+    "question": "अंडमान-निकोबार द्वीप समूह में अधिकांशतः कौन से वन पाए जाते हैं?",
     "options": [
-      "पीर पंजाल",
-      "अटल टनल",
-      "चेनानी-नाशरी",
-      "कर्बुडे"
+      "नम उष्णकटिबंधीय पर्णपाती वन",
+      "उष्णकटिबंधीय सदाबहार वन",
+      "उष्णकटिबंधीय शुष्क पतझड़ वन",
+      "आर्द्र शीतोष्ण वन"
     ],
     "answer": 1,
-    "explanation": "अटल टनल (रोहतांग) 9.02 किमी।"
-  },
-  {
-    "id": 251,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "world-geo",
-    "question": "सबसे बड़ी मीठे पानी की झील?",
-    "options": [
-      "सुपीरियर",
-      "विक्टोरिया",
-      "बैकाल",
-      "कैस्पियन"
-    ],
-    "answer": 0,
-    "explanation": "सुपीरियर झील (उत्तरी अमेरिका)।"
-  },
-  {
-    "id": 252,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "indian-economy",
-    "question": "भारत में RBI कब स्थापित?",
-    "options": [
-      "1934",
-      "1935",
-      "1947",
-      "1950"
-    ],
-    "answer": 1,
-    "explanation": "RBI 1935 में स्थापित, 1949 में राष्ट्रीयकृत।"
-  },
-  {
-    "id": 253,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "indian-constitution",
-    "question": "लोकसभा में कितने सदस्य?",
-    "options": [
-      "500",
-      "543",
-      "550",
-      "552"
-    ],
-    "answer": 1,
-    "explanation": "543 निर्वाचित + 2 आंग्ल भारतीय (अब नहीं)।"
-  },
-  {
-    "id": 254,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "indian-constitution",
-    "question": "भारत के प्रथम प्रधानमंत्री?",
-    "options": [
-      "गांधी",
-      "नेहरू",
-      "पटेल",
-      "आज़ाद"
-    ],
-    "answer": 1,
-    "explanation": "पंडित जवाहरलाल नेहरू (1947-1964)।"
-  },
-  {
-    "id": 255,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "math",
-    "question": "वृत्त का क्षेत्रफल सूत्र?",
-    "options": [
-      "πr²",
-      "2πr",
-      "πd",
-      "πr"
-    ],
-    "answer": 0,
-    "explanation": "क्षेत्रफल = πr²।"
-  },
-  {
-    "id": 256,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "math",
-    "question": "12,15,20 का LCM?",
-    "options": [
-      "40",
-      "50",
-      "60",
-      "80"
-    ],
-    "answer": 2,
-    "explanation": "12=2²×3, 15=3×5, 20=2²×5, LCM=60।"
-  },
-  {
-    "id": 257,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "reasoning",
-    "question": "श्रृंखला: 2,6,12,20,?",
-    "options": [
-      "25",
-      "28",
-      "30",
-      "36"
-    ],
-    "answer": 2,
-    "explanation": "1×2, 2×3, 3×4, 4×5, 5×6=30।"
-  },
-  {
-    "id": 258,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "reasoning",
-    "question": "यदि 2=4, 3=9, 4=16, 5=?",
-    "options": [
-      "20",
-      "25",
-      "30",
-      "35"
-    ],
-    "answer": 1,
-    "explanation": "5²=25।"
-  },
-  {
-    "id": 259,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "math",
-    "question": "एक वर्ग का क्षेत्रफल 144, परिमाप?",
-    "options": [
-      "36",
-      "48",
-      "24",
-      "60"
-    ],
-    "answer": 1,
-    "explanation": "भुजा=12, परिमाप=48।"
-  },
-  {
-    "id": 260,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "world-geo",
-    "question": "प्रशांत महासागर का सबसे गहरा स्थान?",
-    "options": [
-      "मारियाना ट्रेंच",
-      "प्यूर्टो रिको",
-      "जावा",
-      "टोंगा"
-    ],
-    "answer": 0,
-    "explanation": "मारियाना ट्रेंच (10,994 मी)।"
-  },
-  {
-    "id": 261,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "प्रकाश वर्ष मापता है?",
-    "options": [
-      "दूरी",
-      "समय",
-      "प्रकाश",
-      "गति"
-    ],
-    "answer": 0,
-    "explanation": "प्रकाश वर्ष = दूरी का मात्रक।"
-  },
-  {
-    "id": 262,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "चुम्बक के कितने ध्रुव?",
-    "options": [
-      "एक",
-      "दो",
-      "तीन",
-      "चार"
-    ],
-    "answer": 1,
-    "explanation": "उत्तरी और दक्षिणी ध्रुव।"
-  },
-  {
-    "id": 263,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "पृथ्वी का सबसे निकटतम ग्रह?",
-    "options": [
-      "शुक्र",
-      "मंगल",
-      "बुध",
-      "बृहस्पति"
-    ],
-    "answer": 0,
-    "explanation": "शुक्र पृथ्वी का निकटतम ग्रह।"
-  },
-  {
-    "id": 264,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "सौरमंडल का केंद्र?",
-    "options": [
-      "पृथ्वी",
-      "सूर्य",
-      "चंद्रमा",
-      "बृहस्पति"
-    ],
-    "answer": 1,
-    "explanation": "सूर्य सौरमंडल का केंद्र।"
-  },
-  {
-    "id": 265,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "पंचमहाभूत नहीं है?",
-    "options": [
-      "पृथ्वी",
-      "जल",
-      "अग्नि",
-      "प्रकाश"
-    ],
-    "answer": 3,
-    "explanation": "पंचमहाभूत: पृथ्वी, जल, अग्नि, वायु, आकाश।"
-  },
-  {
-    "id": 266,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "प्रोटॉन का आवेश?",
-    "options": [
-      "धनात्मक",
-      "ऋणात्मक",
-      "उदासीन",
-      "कोई नहीं"
-    ],
-    "answer": 0,
-    "explanation": "प्रोटॉन धनात्मक आवेशित।"
-  },
-  {
-    "id": 267,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "world-geo",
-    "question": "यूरोप और एशिया को कौन अलग करता है?",
-    "options": [
-      "यूराल पर्वत",
-      "हिमालय",
-      "एंडीज़",
-      "रॉकीज़"
-    ],
-    "answer": 0,
-    "explanation": "यूराल पर्वत दो महाद्वीपों को अलग करता है।"
-  },
-  {
-    "id": 268,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "india-geo",
-    "question": "भारत का सबसे बड़ा डेल्टा?",
-    "options": [
-      "गंगा-ब्रह्मपुत्र",
-      "गोदावरी",
-      "कृष्णा",
-      "कावेरी"
-    ],
-    "answer": 0,
-    "explanation": "सुंदरवन विश्व का सबसे बड़ा डेल्टा।"
-  },
-  {
-    "id": 269,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "indian-economy",
-    "question": "भारत में मुद्रा आपूर्ति को नियंत्रित करता है?",
-    "options": [
-      "RBI",
-      "SEBI",
-      "IRDA",
-      "SBI"
-    ],
-    "answer": 0,
-    "explanation": "RBI मुद्रा आपूर्ति नियंत्रित करता है।"
-  },
-  {
-    "id": 270,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "indian-constitution",
-    "question": "भारत का राष्ट्रपति कितने वर्ष?",
-    "options": [
-      "4",
-      "5",
-      "6",
-      "7"
-    ],
-    "answer": 1,
-    "explanation": "राष्ट्रपति का कार्यकाल 5 वर्ष।"
-  },
-  {
-    "id": 271,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "learning-theories",
-    "question": "थार्नडाइक के सीखने के नियम?",
-    "options": [
-      "तत्परता-अभ्यास-प्रभाव",
-      "पुनर्बलन",
-      "अनुबंधन",
-      "प्रेक्षण"
-    ],
-    "answer": 0,
-    "explanation": "तीन नियम: तत्परता, अभ्यास, प्रभाव।"
-  },
-  {
-    "id": 272,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "learner-development",
-    "question": "किशोरावस्था की मुख्य समस्या?",
-    "options": [
-      "पहचान संकट",
-      "भाषा",
-      "शारीरिक",
-      "संवेगात्मक"
-    ],
-    "answer": 0,
-    "explanation": "एरिक्सन: पहचान संकट (वि. पहचान भ्रम)।"
-  },
-  {
-    "id": 273,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "intelligence-creativity",
-    "question": "बहु-बुद्धि सिद्धांत के प्रवर्तक?",
-    "options": [
-      "गार्डनर",
-      "गिलफोर्ड",
-      "स्टर्नबर्ग",
-      "बिने"
-    ],
-    "answer": 0,
-    "explanation": "हॉवर्ड गार्डनर: 8 प्रकार की बुद्धि।"
-  },
-  {
-    "id": 274,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "individual-differences",
-    "question": "सबसे सामान्य अधिगम अक्षमता?",
-    "options": [
-      "डिस्लेक्सिया",
-      "डिस्कैल्कुलिया",
-      "डिस्ग्राफिया",
-      "ADHD"
-    ],
-    "answer": 0,
-    "explanation": "डिस्लेक्सिया (पढ़ने में कठिनाई)।"
-  },
-  {
-    "id": 275,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "meaning-scope",
-    "question": "शै.मनो. का संबंध?",
-    "options": [
-      "केवल शिक्षक",
-      "केवल छात्र",
-      "शिक्षक-छात्र दोनों",
-      "केवल पाठ्यक्रम"
-    ],
-    "answer": 2,
-    "explanation": "शिक्षक, छात्र और शैक्षिक प्रक्रिया।"
-  },
-  {
-    "id": 276,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "meaning-scope",
-    "question": "शै.मनो. की प्रकृति?",
-    "options": [
-      "व्यावहारिक",
-      "सैद्धांतिक",
-      "व्यावहारिक-सैद्धांतिक",
-      "प्रयोगात्मक"
-    ],
-    "answer": 2,
-    "explanation": "व्यावहारिक एवं सैद्धांतिक दोनों।"
-  },
-  {
-    "id": 277,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "learner-development",
-    "question": "विकास के कितने प्रकार?",
-    "options": [
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
-    "answer": 1,
-    "explanation": "तीन: शारीरिक, संज्ञानात्मक, संवेगात्मक।"
-  },
-  {
-    "id": 278,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "learning-theories",
-    "question": "पुनर्बलन सिद्धांत किसने दिया?",
-    "options": [
-      "पावलोव",
-      "स्किनर",
-      "थार्नडाइक",
-      "बंडुरा"
-    ],
-    "answer": 1,
-    "explanation": "स्किनर ने क्रियाप्रसूत अनुबंधन दिया।"
-  },
-  {
-    "id": 279,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "intelligence-creativity",
-    "question": "सृजनात्मकता का मुख्य लक्षण?",
-    "options": [
-      "नवीनता",
-      "अनुकरण",
-      "पुनरावृत्ति",
-      "याद"
-    ],
-    "answer": 0,
-    "explanation": "नवीनता/मौलिकता मुख्य लक्षण।"
-  },
-  {
-    "id": 280,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "motivation",
-    "question": "मास्लो की सबसे बुनियादी आवश्यकता?",
-    "options": [
-      "शारीरिक",
-      "सुरक्षा",
-      "सामाजिक",
-      "आत्म-सम्मान"
-    ],
-    "answer": 0,
-    "explanation": "शारीरिक (भूख, प्यास) सबसे बुनियादी।"
-  },
-  {
-    "id": 281,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "individual-differences",
-    "question": "वैयक्तिक भिन्नता का सिद्धांत किसने दिया?",
-    "options": [
-      "गैल्टन",
-      "बिने",
-      "थार्नडाइक",
-      "कैटेल"
-    ],
-    "answer": 0,
-    "explanation": "फ्रांसिस गैल्टन ने दिया।"
-  },
-  {
-    "id": 282,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "personality",
-    "question": "बहिर्मुखी व्यक्ति की विशेषता?",
-    "options": [
-      "मिलनसार",
-      "एकांतप्रिय",
-      "शर्मीला",
-      "चिंतित"
-    ],
-    "answer": 0,
-    "explanation": "मिलनसार, बातूनी, सामाजिक।"
-  },
-  {
-    "id": 283,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "meaning-scope",
-    "question": "शैक्षिक मनोविज्ञान का उद्देश्य?",
-    "options": [
-      "शिक्षण में सुधार",
-      "अनुशासन",
-      "परीक्षा",
-      "पाठ्यक्रम निर्धारण"
-    ],
-    "answer": 0,
-    "explanation": "शिक्षण प्रक्रिया को बेहतर बनाना।"
-  },
-  {
-    "id": 284,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "learning-theories",
-    "question": "सीखने की प्रक्रिया का व्यवस्थित अध्ययन?",
-    "options": [
-      "मनोविज्ञान",
-      "समाजशास्त्र",
-      "दर्शन",
-      "अर्थशास्त्र"
-    ],
-    "answer": 0,
-    "explanation": "मनोविज्ञान सीखने की प्रक्रिया का अध्ययन।"
-  },
-  {
-    "id": 285,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "personality",
-    "question": "MMPI परीक्षण का उपयोग?",
-    "options": [
-      "व्यक्तित्व मापन",
-      "बुद्धि मापन",
-      "अभिवृत्ति",
-      "योग्यता"
-    ],
-    "answer": 0,
-    "explanation": "MMPI (Minnesota Multiphasic Personality Inventory)।"
-  },
-  {
-    "id": 286,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "motivation",
-    "question": "बाह्य अभिप्रेरणा का उदाहरण?",
-    "options": [
-      "जिज्ञासा",
-      "रुचि",
-      "पुरस्कार",
-      "आनंद"
-    ],
-    "answer": 2,
-    "explanation": "पुरस्कार, प्रशंसा बाह्य अभिप्रेरणा।"
-  },
-  {
-    "id": 287,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "learner-development",
-    "question": "गैसेट के अनुसार विकास की अवस्थाएँ?",
-    "options": [
-      "4",
-      "5",
-      "6",
-      "7"
-    ],
-    "answer": 1,
-    "explanation": "गैसेट: 5 विकास अवस्थाएँ।"
-  },
-  {
-    "id": 288,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "learning-theories",
-    "question": "समूह सीखने का सिद्धांत किसने दिया?",
-    "options": [
-      "बंडुरा",
-      "पावलोव",
-      "स्किनर",
-      "कोहलर"
-    ],
-    "answer": 0,
-    "explanation": "बंडुरा का सामाजिक अधिगम सिद्धांत।"
-  },
-  {
-    "id": 289,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "personality",
-    "question": "TAT परीक्षण के प्रवर्तक?",
-    "options": [
-      "मरे",
-      "रोर्शा",
-      "कैटेल",
-      "आइसेंक"
-    ],
-    "answer": 0,
-    "explanation": "मरे और मॉर्गन ने TAT (Thematic Apperception Test) बनाया।"
-  },
-  {
-    "id": 290,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "intelligence-creativity",
-    "question": "भावनात्मक बुद्धि (EQ) की अवधारणा किसने दी?",
-    "options": [
-      "गोलमैन",
-      "गार्डनर",
-      "स्टर्नबर्ग",
-      "बिने"
-    ],
-    "answer": 0,
-    "explanation": "डैनियल गोलमैन ने भावनात्मक बुद्धि दी।"
-  },
-  {
-    "id": 291,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "राजस्थान सचिवालय कहाँ है?",
-    "options": [
-      "जयपुर",
-      "जोधपुर",
-      "अजमेर",
-      "कोटा"
-    ],
-    "answer": 0,
-    "explanation": "जयपुर में राजस्थान सचिवालय।"
-  },
-  {
-    "id": 292,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "राजस्थान में नगर पालिका अधिनियम कब बना?",
-    "options": [
-      "1959",
-      "1962",
-      "1965",
-      "1970"
-    ],
-    "answer": 0,
-    "explanation": "1959 में नगर पालिका अधिनियम।"
-  },
-  {
-    "id": 293,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "राजस्थान में पंचायती राज अधिनियम कब?",
-    "options": [
-      "1959",
-      "1962",
-      "1965",
-      "1970"
-    ],
-    "answer": 0,
-    "explanation": "1959 में पंचायती राज अधिनियम।"
-  },
-  {
-    "id": 294,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "राजस्थान राज्य निर्वाचन आयोग कब बना?",
-    "options": [
-      "1993",
-      "1994",
-      "1995",
-      "1996"
-    ],
-    "answer": 1,
-    "explanation": "1994 में राज्य निर्वाचन आयोग।"
-  },
-  {
-    "id": 295,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "राजस्थान मानवाधिकार आयोग कब?",
-    "options": [
-      "1997",
-      "1999",
-      "2000",
-      "2001"
-    ],
-    "answer": 1,
-    "explanation": "1999 में मानवाधिकार आयोग।"
-  },
-  {
-    "id": 296,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "राजस्थान लोक सेवा आयोग (RPSC) कहाँ?",
-    "options": [
-      "जयपुर",
-      "अजमेर",
-      "जोधपुर",
-      "कोटा"
-    ],
-    "answer": 1,
-    "explanation": "RPSC अजमेर में स्थित।"
-  },
-  {
-    "id": 297,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "राजस्थान में साक्षरता दर (2011)?",
-    "options": [
-      "56.5%",
-      "66.1%",
-      "69.7%",
-      "75.5%"
-    ],
-    "answer": 1,
-    "explanation": "66.1% (पुरुष 79.2%, महिला 52.7%)।"
-  },
-  {
-    "id": 298,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "राजस्थान का सबसे बड़ा हवाई अड्डा?",
-    "options": [
-      "जयपुर",
-      "जोधपुर",
-      "उदयपुर",
-      "बीकानेर"
-    ],
-    "answer": 0,
-    "explanation": "जयपुर अंतर्राष्ट्रीय हवाई अड्डा।"
-  },
-  {
-    "id": 299,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "राजस्थान गठन के समय कितनी रियासतें थीं?",
-    "options": [
-      "16",
-      "18",
-      "19",
-      "22"
-    ],
-    "answer": 1,
-    "explanation": "18 रियासतों को मिलाकर राजस्थान।"
-  },
-  {
-    "id": 300,
-    "paper": 1,
-    "year": "2024",
-    "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "राजस्थान में चिकित्सा एवं स्वास्थ्य विभाग?",
-    "options": [
-      "जयपुर",
-      "जोधपुर",
-      "अजमेर",
-      "कोटा"
-    ],
-    "answer": 0,
-    "explanation": "मुख्यालय जयपुर में।"
-  },
-  {
-    "id": 301,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान में सर्वाधिक जनसंख्या वाला जिला?",
-    "options": [
-      "जयपुर",
-      "जोधपुर",
-      "कोटा",
-      "बीकानेर"
-    ],
-    "answer": 0,
-    "explanation": "जयपुर सर्वाधिक जनसंख्या।"
-  },
-  {
-    "id": 302,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान में सर्वाधिक अनुसूचित जनजाति वाला जिला?",
-    "options": [
-      "बाँसवाड़ा",
-      "डूंगरपुर",
-      "प्रतापगढ़",
-      "उदयपुर"
-    ],
-    "answer": 0,
-    "explanation": "बाँसवाड़ा में सर्वाधिक ST।"
-  },
-  {
-    "id": 303,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान की प्रसिद्ध सांभर झील किस जिले में?",
-    "options": [
-      "जयपुर",
-      "अजमेर",
-      "नागौर",
-      "जोधपुर"
-    ],
-    "answer": 0,
-    "explanation": "सांभर झील जयपुर में।"
-  },
-  {
-    "id": 304,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "राजा मानसिंह ने किसका निर्माण करवाया?",
-    "options": [
-      "आमेर का किला",
-      "जयपुर",
-      "हवा महल",
-      "जलमहल"
-    ],
-    "answer": 0,
-    "explanation": "आमेर का किला मानसिंह ने बनवाया।"
-  },
-  {
-    "id": 305,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "राजस्थान में किस शासक ने अकबर की अधीनता स्वीकार नहीं की?",
-    "options": [
-      "महाराणा प्रताप",
-      "राजा मानसिंह",
-      "राजा भगवानदास",
-      "राजा टोडरमल"
-    ],
-    "answer": 0,
-    "explanation": "महाराणा प्रताप ने अकबर की अधीनता नहीं स्वीकारी।"
-  },
-  {
-    "id": 306,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "मेवाड़ के राणा कुंभा का समय?",
-    "options": [
-      "1433-1468",
-      "1500-1550",
-      "1400-1450",
-      "1468-1500"
-    ],
-    "answer": 0,
-    "explanation": "राणा कुंभा (1433-1468)।"
-  },
-  {
-    "id": 307,
-    "paper": 1,
-    "year": "general",
-    "shift": "B",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान में रबी की मुख्य फसल?",
-    "options": [
-      "गेहूँ",
-      "जौ",
-      "चना",
-      "सरसों"
-    ],
-    "answer": 3,
-    "explanation": "सरसों रबी की मुख्य फसल।"
-  },
-  {
-    "id": 308,
-    "paper": 1,
-    "year": "general",
-    "shift": "B",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान में खरीफ की मुख्य फसल?",
-    "options": [
-      "बाजरा",
-      "गेहूँ",
-      "जौ",
-      "चना"
-    ],
-    "answer": 0,
-    "explanation": "बाजरा खरीफ की मुख्य फसल।"
-  },
-  {
-    "id": 309,
-    "paper": 1,
-    "year": "general",
-    "shift": "B",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "राव चंद्रसेन किस रियासत के शासक?",
-    "options": [
-      "मारवाड़",
-      "मेवाड़",
-      "बीकानेर",
-      "जैसलमेर"
-    ],
-    "answer": 0,
-    "explanation": "राव चंद्रसेन मारवाड़ (1562-1581)।"
-  },
-  {
-    "id": 310,
-    "paper": 1,
-    "year": "general",
-    "shift": "B",
-    "topic": "rajasthan-gk",
-    "subtopic": "society-religion",
-    "question": "राजस्थान में कौन सी जनजाति सर्वाधिक है?",
-    "options": [
-      "भील",
-      "गरासिया",
-      "मीणा",
-      "कालबेलिया"
-    ],
-    "answer": 2,
-    "explanation": "मीणा सर्वाधिक जनसंख्या वाली जनजाति।"
-  },
-  {
-    "id": 311,
-    "paper": 1,
-    "year": "general",
-    "shift": "B",
-    "topic": "rajasthan-gk",
-    "subtopic": "society-religion",
-    "question": "राजस्थान का लोक देवता 'गोगाजी' कहाँ पूजे जाते हैं?",
-    "options": [
-      "हनुमानगढ़",
-      "गंगानगर",
-      "बीकानेर",
-      "जोधपुर"
-    ],
-    "answer": 0,
-    "explanation": "गोगाजी हनुमानगढ़ में।"
-  },
-  {
-    "id": 312,
-    "paper": 1,
-    "year": "general",
-    "shift": "B",
-    "topic": "rajasthan-gk",
-    "subtopic": "society-religion",
-    "question": "तेजाजी का मेला कहाँ लगता है?",
-    "options": [
-      "नागौर",
-      "अजमेर",
-      "पाली",
-      "जोधपुर"
-    ],
-    "answer": 0,
-    "explanation": "तेजाजी का प्रसिद्ध मेला नागौर में।"
-  },
-  {
-    "id": 313,
-    "paper": 1,
-    "year": "general",
-    "shift": "B",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-polity",
-    "question": "राजस्थान में प्रथम पंचायती राज चुनाव?",
-    "options": [
-      "1959",
-      "1960",
-      "1962",
-      "1965"
-    ],
-    "answer": 1,
-    "explanation": "1960 में प्रथम पंचायती राज चुनाव।"
-  },
-  {
-    "id": 314,
-    "paper": 1,
-    "year": "general",
-    "shift": "C",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान के पूर्वी भाग की जलवायु?",
-    "options": [
-      "आर्द्र",
-      "शुष्क",
-      "अर्ध-शुष्क",
-      "उष्णकटिबंधीय"
-    ],
-    "answer": 0,
-    "explanation": "पूर्वी भाग आर्द्र जलवायु।"
-  },
-  {
-    "id": 315,
-    "paper": 1,
-    "year": "general",
-    "shift": "C",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान में सर्वाधिक पशुधन वाला जिला?",
-    "options": [
-      "बीकानेर",
-      "जोधपुर",
-      "नागौर",
-      "जैसलमेर"
-    ],
-    "answer": 0,
-    "explanation": "बीकानेर में सर्वाधिक पशुधन।"
-  },
-  {
-    "id": 316,
-    "paper": 1,
-    "year": "general",
-    "shift": "C",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "राजस्थान में जाटों का प्रसिद्ध केंद्र?",
-    "options": [
-      "भरतपुर",
-      "धौलपुर",
-      "करौली",
-      "अलवर"
-    ],
-    "answer": 0,
-    "explanation": "भरतपुर जाटों का प्रसिद्ध केंद्र।"
-  },
-  {
-    "id": 317,
-    "paper": 1,
-    "year": "general",
-    "shift": "C",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "राजस्थान की कौन सी रियासत सबसे पहले भारत में शामिल?",
-    "options": [
-      "जोधपुर",
-      "बीकानेर",
-      "जयपुर",
-      "उदयपुर"
-    ],
-    "answer": 0,
-    "explanation": "जोधपुर 1947 में शामिल।"
-  },
-  {
-    "id": 318,
-    "paper": 1,
-    "year": "general",
-    "shift": "C",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "राजस्थान के राज्यपाल जिन्होंने सबसे लंबा कार्यकाल पूरा किया?",
-    "options": [
-      "संपूर्णानंद",
-      "गुरुमुख सिंह",
-      "भगवान सहाय",
-      "महाराजकुमार"
-    ],
-    "answer": 0,
-    "explanation": "डॉ. संपूर्णानंद (1962-1967)।"
-  },
-  {
-    "id": 319,
-    "paper": 1,
-    "year": "general",
-    "shift": "C",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-polity",
-    "question": "राजस्थान के प्रथम मुख्य सचिव?",
-    "options": [
-      "वी.बी.एल. माथुर",
-      "एस.एल. खुराना",
-      "अरुण कुमार",
-      "मीठालाल मेहता"
-    ],
-    "answer": 0,
-    "explanation": "वी.बी.एल. माथुर प्रथम मुख्य सचिव।"
-  },
-  {
-    "id": 320,
-    "paper": 1,
-    "year": "general",
-    "shift": "C",
-    "topic": "rajasthan-gk",
-    "subtopic": "society-religion",
-    "question": "राजस्थान में चारण साहित्य के प्रसिद्ध कवि?",
-    "options": [
-      "बांकीदास",
-      "श्यामलदास",
-      "कविया",
-      "दुर्गादास"
-    ],
-    "answer": 0,
-    "explanation": "बांकीदास चारण साहित्य के कवि।"
-  },
-  {
-    "id": 321,
-    "paper": 1,
-    "year": "general",
-    "shift": "D",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान का पश्चिमी भाग कहलाता है?",
-    "options": [
-      "मारवाड़",
-      "मेवाड़",
-      "शेखावाटी",
-      "हाड़ोती"
-    ],
-    "answer": 0,
-    "explanation": "पश्चिमी भाग मारवाड़।"
-  },
-  {
-    "id": 322,
-    "paper": 1,
-    "year": "general",
-    "shift": "D",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान का दक्षिणी भाग?",
-    "options": [
-      "मेवाड़",
-      "मारवाड़",
-      "बागड़",
-      "हाड़ोती"
-    ],
-    "answer": 0,
-    "explanation": "दक्षिणी भाग मेवाड़ कहलाता है।"
-  },
-  {
-    "id": 323,
-    "paper": 1,
-    "year": "general",
-    "shift": "D",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान का पूर्वी भाग?",
-    "options": [
-      "हाड़ोती",
-      "मारवाड़",
-      "मेवाड़",
-      "वागड़"
-    ],
-    "answer": 0,
-    "explanation": "हाड़ोती (कोटा-बूंदी) पूर्वी भाग।"
-  },
-  {
-    "id": 324,
-    "paper": 1,
-    "year": "general",
-    "shift": "D",
-    "topic": "rajasthan-gk",
-    "subtopic": "freedom-struggle",
-    "question": "राजस्थान में 1857 के विद्रोह का नेतृत्व किसने किया?",
-    "options": [
-      "तांत्या टोपे",
-      "नाना साहेब",
-      "बहादुर शाह",
-      "लक्ष्मीबाई"
-    ],
-    "answer": 0,
-    "explanation": "तांत्या टोपे राजस्थान में 1857 के नेता।"
-  },
-  {
-    "id": 325,
-    "paper": 1,
-    "year": "general",
-    "shift": "D",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "राजस्थान का कौन सा त्योहार पशु मेला?",
-    "options": [
-      "गणगौर",
-      "तीज",
-      "पुष्कर मेला",
-      "दशहरा"
-    ],
-    "answer": 2,
-    "explanation": "पुष्कर मेला विश्व का सबसे बड़ा पशु मेला।"
-  },
-  {
-    "id": 326,
-    "paper": 1,
-    "year": "general",
-    "shift": "D",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-history",
-    "question": "राजस्थान में वीर शिरोमणि कहलाते हैं?",
-    "options": [
-      "महाराणा प्रताप",
-      "राणा सांगा",
-      "पृथ्वीराज",
-      "रामदेव"
-    ],
-    "answer": 0,
-    "explanation": "महाराणा प्रताप वीर शिरोमणि।"
-  },
-  {
-    "id": 327,
-    "paper": 1,
-    "year": "general",
-    "shift": "D",
-    "topic": "rajasthan-gk",
-    "subtopic": "society-religion",
-    "question": "राजस्थान का प्रसिद्ध गणगौर त्योहार?",
-    "options": [
-      "चैत्र मास",
-      "कार्तिक",
-      "फाल्गुन",
-      "वैशाख"
-    ],
-    "answer": 0,
-    "explanation": "गणगौर चैत्र मास में मनाया।"
-  },
-  {
-    "id": 328,
-    "paper": 1,
-    "year": "general",
-    "shift": "D",
-    "topic": "rajasthan-gk",
-    "subtopic": "society-religion",
-    "question": "राजस्थान का प्रसिद्ध तीज त्योहार?",
-    "options": [
-      "सावन",
-      "भाद्रपद",
-      "आश्विन",
-      "कार्तिक"
-    ],
-    "answer": 1,
-    "explanation": "तीज भाद्रपद शुक्ल तृतीया को।"
-  },
-  {
-    "id": 329,
-    "paper": 1,
-    "year": "general",
-    "shift": "D",
-    "topic": "rajasthan-gk",
-    "subtopic": "society-religion",
-    "question": "राजस्थान में महिलाओं का प्रसिद्ध गीत?",
-    "options": [
-      "घूमर",
-      "गीत",
-      "बन्नो",
-      "लोकगीत"
-    ],
-    "answer": 0,
-    "explanation": "घूमर राजस्थान का प्रसिद्ध महिला नृत्य।"
-  },
-  {
-    "id": 330,
-    "paper": 1,
-    "year": "general",
-    "shift": "D",
-    "topic": "rajasthan-gk",
-    "subtopic": "society-religion",
-    "question": "पंवार जनजाति राजस्थान में कहाँ पाई जाती है?",
-    "options": [
-      "दक्षिणी",
-      "उत्तरी",
-      "पूर्वी",
-      "पश्चिमी"
-    ],
-    "answer": 0,
-    "explanation": "पंवार दक्षिणी राजस्थान में।"
-  },
-  {
-    "id": 331,
-    "paper": 1,
-    "year": "general",
-    "shift": "D",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान में हीरा उत्पादन कहाँ?",
-    "options": [
-      "कोटा",
-      "बूंदी",
-      "झालावाड़",
-      "बाराँ"
-    ],
-    "answer": 2,
-    "explanation": "झालावाड़ में हीरा उत्पादन।"
-  },
-  {
-    "id": 332,
-    "paper": 1,
-    "year": "general",
-    "shift": "D",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान में किस जिले में सबसे अधिक झीलें?",
-    "options": [
-      "उदयपुर",
-      "जयपुर",
-      "अलवर",
-      "भरतपुर"
-    ],
-    "answer": 0,
-    "explanation": "उदयपुर को 'झीलों की नगरी' कहते हैं।"
-  },
-  {
-    "id": 333,
-    "paper": 1,
-    "year": "general",
-    "shift": "D",
-    "topic": "rajasthan-gk",
-    "subtopic": "raj-geo",
-    "question": "राजस्थान की सबसे बड़ी कृत्रिम झील?",
-    "options": [
-      "जयसमंद",
-      "फॉय सागर",
-      "आनासागर",
-      "राजसमंद"
-    ],
-    "answer": 0,
-    "explanation": "जयसमंद (ढेबर) सबसे बड़ी कृत्रिम झील।"
-  },
-  {
-    "id": 334,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "निकट दृष्टि दोष किस लेंस से ठीक करते हैं?",
-    "options": [
-      "उत्तल",
-      "अवतल",
-      "बेलनाकार",
-      "द्विफोकस"
-    ],
-    "answer": 1,
-    "explanation": "अवतल लेंस।"
-  },
-  {
-    "id": 335,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "दूर दृष्टि दोष किस लेंस से?",
-    "options": [
-      "उत्तल",
-      "अवतल",
-      "बेलनाकार",
-      "द्विफोकस"
-    ],
-    "answer": 0,
-    "explanation": "उत्तल लेंस।"
-  },
-  {
-    "id": 336,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "सबसे हल्की गैस?",
-    "options": [
-      "हाइड्रोजन",
-      "हीलियम",
-      "नाइट्रोजन",
-      "ऑक्सीजन"
-    ],
-    "answer": 0,
-    "explanation": "हाइड्रोजन सबसे हल्की गैस।"
-  },
-  {
-    "id": 337,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "सबसे भारी गैस?",
-    "options": [
-      "रेडॉन",
-      "हीलियम",
-      "नाइट्रोजन",
-      "आर्गन"
-    ],
-    "answer": 0,
-    "explanation": "रेडॉन सबसे भारी गैस।"
-  },
-  {
-    "id": 338,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "पृथ्वी के वायुमंडल में सर्वाधिक गैस?",
-    "options": [
-      "O2",
-      "N2",
-      "CO2",
-      "Ar"
-    ],
-    "answer": 1,
-    "explanation": "N2 (78%) सर्वाधिक।"
-  },
-  {
-    "id": 339,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "प्रकाश का वर्ण विक्षेपण किसमें होता है?",
-    "options": [
-      "प्रिज्म",
-      "लेंस",
-      "दर्पण",
-      "फिल्टर"
-    ],
-    "answer": 0,
-    "explanation": "प्रिज्म में प्रकाश का वर्ण विक्षेपण।"
-  },
-  {
-    "id": 340,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "विद्युत प्रवाह का SI मात्रक?",
-    "options": [
-      "वोल्ट",
-      "एम्पियर",
-      "वाट",
-      "ओम"
-    ],
-    "answer": 1,
-    "explanation": "एम्पियर।"
-  },
-  {
-    "id": 341,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "प्रतिरोध का SI मात्रक?",
-    "options": [
-      "वोल्ट",
-      "एम्पियर",
-      "वाट",
-      "ओम"
-    ],
-    "answer": 3,
-    "explanation": "ओम (Ω)।"
-  },
-  {
-    "id": 342,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "विभवांतर का SI मात्रक?",
-    "options": [
-      "वोल्ट",
-      "एम्पियर",
-      "वाट",
-      "ओम"
-    ],
-    "answer": 0,
-    "explanation": "वोल्ट।"
-  },
-  {
-    "id": 343,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "शक्ति का SI मात्रक?",
-    "options": [
-      "वोल्ट",
-      "एम्पियर",
-      "वाट",
-      "जूल"
-    ],
-    "answer": 2,
-    "explanation": "वाट।"
-  },
-  {
-    "id": 344,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "कार्य का SI मात्रक?",
-    "options": [
-      "वोल्ट",
-      "एम्पियर",
-      "वाट",
-      "जूल"
-    ],
-    "answer": 3,
-    "explanation": "जूल।"
-  },
-  {
-    "id": 345,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "world-geo",
-    "question": "विश्व की सबसे ऊँची पर्वत चोटी?",
-    "options": [
-      "एवरेस्ट",
-      "K2",
-      "कंचनजंगा",
-      "ल्होत्से"
-    ],
-    "answer": 0,
-    "explanation": "एवरेस्ट (8,848.86 मी) नेपाल में।"
-  },
-  {
-    "id": 346,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "world-geo",
-    "question": "विश्व की सबसे बड़ी खाड़ी?",
-    "options": [
-      "हडसन",
-      "बंगाल",
-      "मैक्सिको",
-      "फारस"
-    ],
-    "answer": 1,
-    "explanation": "बंगाल की खाड़ी सबसे बड़ी।"
-  },
-  {
-    "id": 347,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "world-geo",
-    "question": "विश्व का सबसे छोटा महासागर?",
-    "options": [
-      "आर्कटिक",
-      "हिंद",
-      "अटलांटिक",
-      "प्रशांत"
-    ],
-    "answer": 0,
-    "explanation": "आर्कटिक सबसे छोटा।"
-  },
-  {
-    "id": 348,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "world-geo",
-    "question": "एशिया और अफ्रीका को कौन अलग करता है?",
-    "options": [
-      "स्वेज़ नहर",
-      "पनामा नहर",
-      "सूएज़ नहर",
-      "गिब्राल्टर"
-    ],
-    "answer": 2,
-    "explanation": "स्वेज़ नहर एशिया-अफ्रीका को अलग करती है।"
-  },
-  {
-    "id": 349,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "india-geo",
-    "question": "भारत का दक्षिणतम बिंदु?",
-    "options": [
-      "इंदिरा पॉइंट",
-      "कन्याकुमारी",
-      "कोमोरिन",
-      "रामेश्वरम"
-    ],
-    "answer": 0,
-    "explanation": "इंदिरा पॉइंट (ग्रेट निकोबार)।"
-  },
-  {
-    "id": 350,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "india-geo",
-    "question": "भारत का पश्चिमी तट कहलाता है?",
-    "options": [
-      "कोरोमंडल",
-      "मालाबार",
-      "कोंकण",
-      "गुजरात"
-    ],
-    "answer": 2,
-    "explanation": "कोंकण तट पश्चिमी तट।"
-  },
-  {
-    "id": 351,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "india-geo",
-    "question": "भारत का पूर्वी तट?",
-    "options": [
-      "कोरोमंडल",
-      "मालाबार",
-      "कोंकण",
-      "गुजरात"
-    ],
-    "answer": 0,
-    "explanation": "कोरोमंडल तट पूर्वी तट।"
-  },
-  {
-    "id": 352,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "indian-economy",
-    "question": "भारत में योजना आयोग कब स्थापित?",
-    "options": [
-      "1950",
-      "1951",
-      "1952",
-      "1955"
-    ],
-    "answer": 0,
-    "explanation": "1950 में योजना आयोग।"
-  },
-  {
-    "id": 353,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "indian-economy",
-    "question": "नीति आयोग का गठन कब?",
-    "options": [
-      "2014",
-      "2015",
-      "2016",
-      "2017"
-    ],
-    "answer": 1,
-    "explanation": "1 जनवरी 2015 को नीति आयोग।"
-  },
-  {
-    "id": 354,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "indian-constitution",
-    "question": "भारत के प्रथम उपराष्ट्रपति?",
-    "options": [
-      "राधाकृष्णन",
-      "राजेन्द्र प्रसाद",
-      "ज़ाकिर हुसैन",
-      "वी.वी. गिरि"
-    ],
-    "answer": 0,
-    "explanation": "डॉ. सर्वपल्ली राधाकृष्णन।"
-  },
-  {
-    "id": 355,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "indian-constitution",
-    "question": "लोकसभा का कार्यकाल?",
-    "options": [
-      "4",
-      "5",
-      "6",
-      "7"
-    ],
-    "answer": 1,
-    "explanation": "5 वर्ष।"
-  },
-  {
-    "id": 356,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "indian-constitution",
-    "question": "राज्यसभा का कार्यकाल?",
-    "options": [
-      "4",
-      "5",
-      "6",
-      "स्थायी"
-    ],
-    "answer": 3,
-    "explanation": "राज्यसभा स्थायी सदन।"
-  },
-  {
-    "id": 357,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "math",
-    "question": "2,3,5 का LCM?",
-    "options": [
-      "15",
-      "30",
-      "60",
-      "10"
-    ],
-    "answer": 1,
-    "explanation": "उत्तर: 30"
-  },
-  {
-    "id": 358,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "math",
-    "question": "एक त्रिभुज के कोणों का योग?",
-    "options": [
-      "90°",
-      "180°",
-      "270°",
-      "360°"
-    ],
-    "answer": 1,
-    "explanation": "180°।"
-  },
-  {
-    "id": 359,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "math",
-    "question": "यदि 15 वस्तुओं का मूल्य ₹225 है, तो 12 का?",
-    "options": [
-      "150",
-      "160",
-      "175",
-      "180"
-    ],
-    "answer": 3,
-    "explanation": "₹180।"
-  },
-  {
-    "id": 360,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "reasoning",
-    "question": "राम श्याम से लंबा, श्याम मोहन से छोटा, सबसे छोटा?",
-    "options": [
-      "राम",
-      "श्याम",
-      "मोहन",
-      "बराबर"
-    ],
-    "answer": 1,
-    "explanation": "श्याम सबसे छोटा।"
-  },
-  {
-    "id": 361,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "reasoning",
-    "question": "यदि दक्षिण-पश्चिम को उत्तर-पश्चिम कहें, तो पूर्व को क्या कहेंगे?",
-    "options": [
-      "पश्चिम",
-      "उत्तर",
-      "दक्षिण",
-      "पूर्व"
-    ],
-    "answer": 0,
-    "explanation": "पश्चिम।"
-  },
-  {
-    "id": 362,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "meaning-scope",
-    "question": "शैक्षिक मनोविज्ञान एक?",
-    "options": [
-      "विज्ञान",
-      "कला",
-      "विज्ञान और कला",
-      "दर्शन"
-    ],
-    "answer": 2,
-    "explanation": "विज्ञान और कला दोनों।"
-  },
-  {
-    "id": 363,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "learning-theories",
-    "question": "सीखने की प्रक्रिया में स्थानांतरण?",
-    "options": [
-      "पूर्व ज्ञान का प्रभाव",
-      "नया ज्ञान",
-      "विस्मृति",
-      "पुनर्बलन"
-    ],
-    "answer": 0,
-    "explanation": "पूर्व ज्ञान नए सीखने को प्रभावित करता है।"
-  },
-  {
-    "id": 364,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "individual-differences",
-    "question": "भिन्न-भिन्न शिक्षार्थियों की समस्या?",
-    "options": [
-      "वैयक्तिक भिन्नता",
-      "सामाजिक भिन्नता",
-      "आर्थिक भिन्नता",
-      "सांस्कृतिक"
-    ],
-    "answer": 0,
-    "explanation": "वैयक्तिक भिन्नता शिक्षण में चुनौती।"
-  },
-  {
-    "id": 365,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "learner-development",
-    "question": "बालक के विकास की अवस्था नहीं है?",
-    "options": [
-      "शैशव",
-      "बाल्य",
-      "किशोर",
-      "वृद्धावस्था"
-    ],
-    "answer": 3,
-    "explanation": "वृद्धावस्था विकास की अवस्था नहीं।"
-  },
-  {
-    "id": 366,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "intelligence-creativity",
-    "question": "बुद्धि की माप किसमें होती है?",
-    "options": [
-      "IQ",
-      "EQ",
-      "SQ",
-      "AQ"
-    ],
-    "answer": 0,
-    "explanation": "बुद्धिलब्धि (IQ) में।"
-  },
-  {
-    "id": 367,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "personality",
-    "question": "व्यक्तित्व का प्रभावित करने वाला कारक?",
-    "options": [
-      "आनुवंशिकता",
-      "वातावरण",
-      "दोनों",
-      "शिक्षा"
-    ],
-    "answer": 2,
-    "explanation": "आनुवंशिकता और वातावरण दोनों।"
-  },
-  {
-    "id": 368,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "motivation",
-    "question": "अभिप्रेरणा का स्रोत नहीं है?",
-    "options": [
-      "आवश्यकता",
-      "वृत्ति",
-      "प्रेरणा",
-      "थकान"
-    ],
-    "answer": 3,
-    "explanation": "थकान अभिप्रेरणा का स्रोत नहीं।"
-  },
-  {
-    "id": 369,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "learning-theories",
-    "question": "व्यवहारवाद का जनक?",
-    "options": [
-      "वाटसन",
-      "पावलोव",
-      "स्किनर",
-      "थार्नडाइक"
-    ],
-    "answer": 0,
-    "explanation": "जॉन बी. वाटसन व्यवहारवाद का जनक।"
-  },
-  {
-    "id": 370,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "individual-differences",
-    "question": "प्रतिभाशाली बालक का IQ?",
-    "options": [
-      "100-120",
-      "120-140",
-      "140+",
-      "80-100"
-    ],
-    "answer": 2,
-    "explanation": "140+ प्रतिभाशाली।"
-  },
-  {
-    "id": 371,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "राजस्थान का उप-मुख्यमंत्री कौन?",
-    "options": [
-      "प्रेम चंद बैरवा",
-      "दीया कुमारी",
-      "सचिन पायलट",
-      "महेश जोशी"
-    ],
-    "answer": 0,
-    "explanation": "पद वर्तमान में नहीं है।"
-  },
-  {
-    "id": 372,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "राजस्थान का प्रमुख खनिज?",
-    "options": [
-      "ताँबा",
-      "जस्ता",
-      "सीसा",
-      "लौह अयस्क"
-    ],
-    "answer": 1,
-    "explanation": "जस्ता राजस्थान का प्रमुख खनिज।"
-  },
-  {
-    "id": 373,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "राजस्थान विश्वविद्यालय कहाँ?",
-    "options": [
-      "जयपुर",
-      "जोधपुर",
-      "कोटा",
-      "उदयपुर"
-    ],
-    "answer": 0,
-    "explanation": "राजस्थान विश्वविद्यालय जयपुर।"
-  },
-  {
-    "id": 374,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "राजस्थान कृषि विश्वविद्यालय कहाँ?",
-    "options": [
-      "जोधपुर",
-      "बीकानेर",
-      "उदयपुर",
-      "जयपुर"
-    ],
-    "answer": 1,
-    "explanation": "बीकानेर में राज. कृषि विश्वविद्यालय।"
-  },
-  {
-    "id": 375,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "राजस्थान तकनीकी विश्वविद्यालय कहाँ?",
-    "options": [
-      "कोटा",
-      "जयपुर",
-      "जोधपुर",
-      "अजमेर"
-    ],
-    "answer": 0,
-    "explanation": "राज. तकनीकी विश्वविद्यालय कोटा।"
-  },
-  {
-    "id": 376,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "राजस्थान पुलिस का मुख्यालय?",
-    "options": [
-      "जयपुर",
-      "जोधपुर",
-      "अजमेर",
-      "कोटा"
-    ],
-    "answer": 0,
-    "explanation": "जयपुर में पुलिस मुख्यालय।"
-  },
-  {
-    "id": 377,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "राजस्थान में कितने संसदीय क्षेत्र?",
-    "options": [
-      "25",
-      "20",
-      "15",
-      "10"
-    ],
-    "answer": 0,
-    "explanation": "25 लोकसभा क्षेत्र।"
-  },
-  {
-    "id": 378,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "राजस्थान में कितने विधानसभा क्षेत्र?",
-    "options": [
-      "200",
-      "150",
-      "250",
-      "300"
-    ],
-    "answer": 0,
-    "explanation": "200 विधानसभा क्षेत्र।"
-  },
-  {
-    "id": 379,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "राजस्थान में कुल तहसीलों की संख्या?",
-    "options": [
-      "200",
-      "250",
-      "300",
-      "350"
-    ],
-    "answer": 3,
-    "explanation": "लगभग 352 तहसीलें।"
-  },
-  {
-    "id": 380,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "meaning-scope",
-    "question": "शैक्षिक मनोविज्ञान का जनक किसे कहा जाता है?",
-    "options": [
-      "ई.एल. थार्नडाइक",
-      "जॉन डीवी",
-      "स्किनर",
-      "पावलोव"
-    ],
-    "answer": 0,
-    "explanation": "थार्नडाइक को शैक्षिक मनोविज्ञान का जनक माना जाता है।"
-  },
-  {
-    "id": 381,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "learning-theories",
-    "question": "सीखने में पुनर्बलन का सिद्धांत किसने दिया?",
-    "options": [
-      "स्किनर",
-      "पावलोव",
-      "थार्नडाइक",
-      "कोहलर"
-    ],
-    "answer": 0,
-    "explanation": "स्किनर ने क्रियाप्रसूत अनुबंधन सिद्धांत दिया।"
-  },
-  {
-    "id": 382,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "learner-development",
-    "question": "किशोरावस्था की आयु सीमा क्या है?",
-    "options": [
-      "12-18 वर्ष",
-      "6-12 वर्ष",
-      "0-6 वर्ष",
-      "18-25 वर्ष"
-    ],
-    "answer": 0,
-    "explanation": "किशोरावस्था 12-18 वर्ष तक होती है।"
-  },
-  {
-    "id": 383,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "personality",
-    "question": "व्यक्तित्व के प्रकार सिद्धांत के प्रवर्तक कौन हैं?",
-    "options": [
-      "हिप्पोक्रेट्स",
-      "फ्रायड",
-      "जुंग",
-      "आइसेंक"
-    ],
-    "answer": 3,
-    "explanation": "आइसेंक ने व्यक्तित्व के तीन आयाम दिए।"
-  },
-  {
-    "id": 384,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "intelligence-creativity",
-    "question": "इकाई-कारक सिद्धांत किसने दिया?",
-    "options": [
-      "बिने",
-      "स्पीयरमैन",
-      "थार्नडाइक",
-      "गिलफोर्ड"
-    ],
-    "answer": 1,
-    "explanation": "स्पीयरमैन ने द्वि-कारक सिद्धांत दिया।"
-  },
-  {
-    "id": 385,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "motivation",
-    "question": "अभिप्रेरणा के मनोवैज्ञानिक आधार हैं?",
-    "options": [
-      "आवश्यकता-वृत्ति-प्रेरणा",
-      "भूख-प्यास",
-      "इच्छा-कल्पना",
-      "बुद्धि-स्मृति"
-    ],
-    "answer": 0,
-    "explanation": "आवश्यकता, वृत्ति और प्रेरणा तीन आधार।"
-  },
-  {
-    "id": 386,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "individual-differences",
-    "question": "मंद बुद्धि बालक का IQ कितना होता है?",
-    "options": [
-      "70-90",
-      "90-110",
-      "110-130",
-      "130+"
-    ],
-    "answer": 0,
-    "explanation": "मंद बुद्धि बालक का IQ 70-90 के बीच।"
-  },
-  {
-    "id": 387,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "learning-theories",
-    "question": "सम्प्रत्यात्मक अधिगम किससे संबंधित है?",
-    "options": [
-      "संज्ञानात्मक सिद्धांत",
-      "व्यवहारवाद",
-      "मानवतावाद",
-      "रचनावाद"
-    ],
-    "answer": 0,
-    "explanation": "संज्ञानात्मक सिद्धांत सम्प्रत्यात्मक अधिगम से संबंधित।"
-  },
-  {
-    "id": 388,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "meaning-scope",
-    "question": "शैक्षिक मनोविज्ञान का प्रमुख क्षेत्र है?",
-    "options": [
-      "सीखने की प्रक्रिया",
-      "शिक्षण विधियाँ",
-      "पाठ्यचर्या",
-      "मूल्यांकन"
-    ],
-    "answer": 0,
-    "explanation": "सीखने की प्रक्रिया प्रमुख क्षेत्र है।"
-  },
-  {
-    "id": 389,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "learner-development",
-    "question": "बालक की प्रथम पाठशाला कौन सी होती है?",
-    "options": [
-      "विद्यालय",
-      "परिवार",
-      "समाज",
-      "मित्र मंडल"
-    ],
-    "answer": 1,
-    "explanation": "परिवार बालक की प्रथम पाठशाला है।"
-  },
-  {
-    "id": 390,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "personality",
-    "question": "रोर्शा परीक्षण क्या मापता है?",
-    "options": [
-      "व्यक्तित्व",
-      "बुद्धि",
-      "योग्यता",
-      "अभिवृत्ति"
-    ],
-    "answer": 0,
-    "explanation": "रोर्शा स्याही धब्बा परीक्षण व्यक्तित्व मापता है।"
-  },
-  {
-    "id": 391,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "intelligence-creativity",
-    "question": "बुद्धि की त्रि-आयामी सिद्धांत किसने दिया?",
-    "options": [
-      "गिलफोर्ड",
-      "गार्डनर",
-      "स्टर्नबर्ग",
-      "बिने"
-    ],
-    "answer": 0,
-    "explanation": "गिलफोर्ड ने बुद्धि की त्रि-आयामी संरचना दी।"
-  },
-  {
-    "id": 392,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "learning-theories",
-    "question": "प्रयास एवं त्रुटि का सिद्धांत किसने दिया?",
-    "options": [
-      "थार्नडाइक",
-      "पावलोव",
-      "स्किनर",
-      "कोहलर"
-    ],
-    "answer": 0,
-    "explanation": "थार्नडाइक ने प्रयास एवं त्रुटि सिद्धांत दिया।"
-  },
-  {
-    "id": 393,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "learner-development",
-    "question": "स्कैफोल्डिंग की अवधारणा किसने दी?",
-    "options": [
-      "वाइगोत्स्की",
-      "पियाजे",
-      "ब्रूनर",
-      "बंडुरा"
-    ],
-    "answer": 0,
-    "explanation": "वाइगोत्स्की ने स्कैफोल्डिंग की अवधारणा दी।"
-  },
-  {
-    "id": 394,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "edu-psychology",
-    "subtopic": "meaning-scope",
-    "question": "शैक्षिक मनोविज्ञान में मापन का उद्देश्य क्या है?",
-    "options": [
-      "व्यवहार को मापना",
-      "बुद्धि मापना",
-      "व्यक्तित्व मापना",
-      "सभी"
-    ],
-    "answer": 3,
-    "explanation": "शैक्षिक मनोविज्ञान में सभी का मापन किया जाता है।"
-  },
-  {
-    "id": 395,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "general-science",
-    "question": "मानव शरीर में कितने दांत होते हैं?",
-    "options": [
-      "30",
-      "32",
-      "34",
-      "36"
-    ],
-    "answer": 1,
-    "explanation": "वयस्क मानव के 32 दांत होते हैं।"
-  },
-  {
-    "id": 396,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "india-geo",
-    "question": "नर्मदा नदी किसमें गिरती है?",
-    "options": [
-      "अरब सागर",
-      "बंगाल की खाड़ी",
-      "हिंद महासागर",
-      "कच्छ की खाड़ी"
-    ],
-    "answer": 2,
-    "explanation": "नर्मदा हिंद महासागर में गिरती है।"
-  },
-  {
-    "id": 397,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "indian-constitution",
-    "question": "भारतीय संविधान की प्रस्तावना में कितने शब्द हैं?",
-    "options": [
-      "65",
-      "75",
-      "85",
-      "95"
-    ],
-    "answer": 2,
-    "explanation": "प्रस्तावना में 85 शब्द हैं।"
-  },
-  {
-    "id": 398,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "world-india-gk",
-    "subtopic": "indian-economy",
-    "question": "भारत का सबसे बड़ा व्यापारिक भागीदार कौन है?",
-    "options": [
-      "अमेरिका",
-      "चीन",
-      "संयुक्त अरब अमीरात",
-      "सऊदी अरब"
-    ],
-    "answer": 0,
-    "explanation": "अमेरिका भारत का सबसे बड़ा व्यापारिक भागीदार है।"
-  },
-  {
-    "id": 399,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "राजस्थान की प्रथम महिला पुलिस अधीक्षक कौन थीं?",
-    "options": [
-      "मीरा दत्ता",
-      "अल्का रॉय",
-      "सौम्या श्रीवास्तव",
-      "रश्मि शर्मा"
-    ],
-    "answer": 0,
-    "explanation": "मीरा दत्ता राजस्थान की प्रथम महिला SP थीं।"
-  },
-  {
-    "id": 400,
-    "paper": 1,
-    "year": "general",
-    "shift": "A",
-    "topic": "rajasthan-current",
-    "subtopic": "raj-current",
-    "question": "राजस्थान में फ्लोराइड सर्वाधिक कहाँ पाया जाता है?",
-    "options": [
-      "जोधपुर",
-      "नागौर",
-      "जयपुर",
-      "अजमेर"
-    ],
-    "answer": 1,
-    "explanation": "नागौर जिले में फ्लोराइड सर्वाधिक है।"
+    "explanation": "अंडमान-निकोबार में अधिकांशतः उष्णकटिबंधीय सदाबहार वन पाए जाते हैं।"
   }
 ];
