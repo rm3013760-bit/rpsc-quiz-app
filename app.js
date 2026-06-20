@@ -67,6 +67,23 @@ function updateHomeStats() {
   document.getElementById('paper2Stats').textContent = p2Filtered.length + ' प्रश्न';
   const allBtn = document.getElementById('allQCount');
   if (allBtn) allBtn.textContent = filtered.length;
+
+  const grid = document.getElementById('topicQuizGrid');
+  if (!grid) return;
+  grid.innerHTML = '';
+  syllabus.paper1.topics.forEach(topic => {
+    const count = filtered.filter(q => q.paper === 1 && q.topic === topic.id).length;
+    if (count === 0) return;
+    const card = document.createElement('div');
+    card.className = 'topic-quiz-card';
+    card.innerHTML = `
+      <div class="topic-quiz-icon">${topic.icon}</div>
+      <div class="topic-quiz-name">${topic.shortName}</div>
+      <div class="topic-quiz-count">${count} प्रश्न</div>
+    `;
+    card.onclick = () => startQuiz({ paper: 1, topicId: topic.id, subtopicId: null });
+    grid.appendChild(card);
+  });
 }
 
 function startModelPaper() {
